@@ -1,0 +1,409 @@
+stem,species,excluded_in_paper,method,placement,sil_iou
+gs_quinoa_20221117_0007_train,quinoa,1,Ours,input,0.26599576137959957
+gs_quinoa_20221117_0007_train,quinoa,1,Ours,oracle,0.6844701596668789
+gs_quinoa_20221117_0007_train,quinoa,1,TRELLIS,input,0.34554827958345413
+gs_quinoa_20221117_0007_train,quinoa,1,TRELLIS,oracle,0.6659066240702357
+gs_quinoa_20221117_0007_train,quinoa,1,TRELLIS.2,input,0.3414393333452089
+gs_quinoa_20221117_0007_train,quinoa,1,TRELLIS.2,oracle,0.5746427311428955
+gs_quinoa_20221117_0007_train,quinoa,1,Hunyuan3D 2.1,input,0.17605945120781794
+gs_quinoa_20221117_0007_train,quinoa,1,Hunyuan3D 2.1,oracle,0.48500495058085236
+gs_quinoa_20221117_0007_train,quinoa,1,SEVA,input,0.17401833406516484
+gs_quinoa_20221117_0007_train,quinoa,1,SEVA,oracle,0.41518501564860344
+gs_quinoa_20221117_0007_train,quinoa,1,SV3D,input,0.23493755981326103
+gs_quinoa_20221117_0007_train,quinoa,1,SV3D,oracle,0.5650903816734042
+gs_quinoa_20221122_0007_train,quinoa,0,Ours,input,0.14967348586235726
+gs_quinoa_20221122_0007_train,quinoa,0,Ours,oracle,0.4848537178976195
+gs_quinoa_20221122_0007_train,quinoa,0,TRELLIS,input,0.43184857070446014
+gs_quinoa_20221122_0007_train,quinoa,0,TRELLIS,oracle,0.6155493812901633
+gs_quinoa_20221122_0007_train,quinoa,0,TRELLIS.2,input,0.15587849648935453
+gs_quinoa_20221122_0007_train,quinoa,0,TRELLIS.2,oracle,0.49011956581047605
+gs_quinoa_20221122_0007_train,quinoa,0,Hunyuan3D 2.1,input,0.1225186533161572
+gs_quinoa_20221122_0007_train,quinoa,0,Hunyuan3D 2.1,oracle,0.4671178534626961
+gs_quinoa_20221122_0007_train,quinoa,0,SEVA,input,0.27520136535167694
+gs_quinoa_20221122_0007_train,quinoa,0,SEVA,oracle,0.3366254504237856
+gs_quinoa_20221122_0007_train,quinoa,0,SV3D,input,0.30057699446167263
+gs_quinoa_20221122_0007_train,quinoa,0,SV3D,oracle,0.44322354825479643
+gs_quinoa_20221125_0007_train,quinoa,0,Ours,input,0.2734737289803369
+gs_quinoa_20221125_0007_train,quinoa,0,Ours,oracle,0.640600751553263
+gs_quinoa_20221125_0007_train,quinoa,0,TRELLIS,input,0.2845273028526987
+gs_quinoa_20221125_0007_train,quinoa,0,TRELLIS,oracle,0.6281782324825015
+gs_quinoa_20221125_0007_train,quinoa,0,TRELLIS.2,input,0.18527103827467986
+gs_quinoa_20221125_0007_train,quinoa,0,TRELLIS.2,oracle,0.5151591183883804
+gs_quinoa_20221125_0007_train,quinoa,0,Hunyuan3D 2.1,input,0.15675556353692496
+gs_quinoa_20221125_0007_train,quinoa,0,Hunyuan3D 2.1,oracle,0.5309205885444369
+gs_quinoa_20221125_0007_train,quinoa,0,SEVA,input,0.27269040580306736
+gs_quinoa_20221125_0007_train,quinoa,0,SEVA,oracle,0.5106941269976752
+gs_quinoa_20221125_0007_train,quinoa,0,SV3D,input,0.2551001182624272
+gs_quinoa_20221125_0007_train,quinoa,0,SV3D,oracle,0.47867730472769054
+gs_quinoa_20221129_0007_train,quinoa,0,Ours,input,0.2099338173866272
+gs_quinoa_20221129_0007_train,quinoa,0,Ours,oracle,0.474260613322258
+gs_quinoa_20221129_0007_train,quinoa,0,TRELLIS,input,0.23829168613467896
+gs_quinoa_20221129_0007_train,quinoa,0,TRELLIS,oracle,0.5655147454568318
+gs_quinoa_20221129_0007_train,quinoa,0,TRELLIS.2,input,0.20502053467290743
+gs_quinoa_20221129_0007_train,quinoa,0,TRELLIS.2,oracle,0.6303648735795703
+gs_quinoa_20221129_0007_train,quinoa,0,Hunyuan3D 2.1,input,0.2197598351963929
+gs_quinoa_20221129_0007_train,quinoa,0,Hunyuan3D 2.1,oracle,0.48164205253124237
+gs_quinoa_20221129_0007_train,quinoa,0,SEVA,input,0.20660412311553955
+gs_quinoa_20221129_0007_train,quinoa,0,SEVA,oracle,0.503589140517371
+gs_quinoa_20221129_0007_train,quinoa,0,SV3D,input,0.2681856357625553
+gs_quinoa_20221129_0007_train,quinoa,0,SV3D,oracle,0.4824471686567579
+gs_quinoa_20221206_0007_train,quinoa,0,Ours,input,0.2663113921880722
+gs_quinoa_20221206_0007_train,quinoa,0,Ours,oracle,0.42201034086091177
+gs_quinoa_20221206_0007_train,quinoa,0,TRELLIS,input,0.26096109939473017
+gs_quinoa_20221206_0007_train,quinoa,0,TRELLIS,oracle,0.4696140949215208
+gs_quinoa_20221206_0007_train,quinoa,0,TRELLIS.2,input,0.29353839584759306
+gs_quinoa_20221206_0007_train,quinoa,0,TRELLIS.2,oracle,0.4803571488176073
+gs_quinoa_20221206_0007_train,quinoa,0,Hunyuan3D 2.1,input,0.1968782033239092
+gs_quinoa_20221206_0007_train,quinoa,0,Hunyuan3D 2.1,oracle,0.3882383853197098
+gs_quinoa_20221206_0007_train,quinoa,0,SEVA,input,0.31148595043591093
+gs_quinoa_20221206_0007_train,quinoa,0,SEVA,oracle,0.4805824841771807
+gs_quinoa_20221206_0007_train,quinoa,0,SV3D,input,0.3646807957972799
+gs_quinoa_20221206_0007_train,quinoa,0,SV3D,oracle,0.4674875757523945
+gs_quinoa_20221209_0007_train,quinoa,0,Ours,input,0.36675084062985014
+gs_quinoa_20221209_0007_train,quinoa,0,Ours,oracle,0.4874496800558908
+gs_quinoa_20221209_0007_train,quinoa,0,TRELLIS,input,0.26926045971257345
+gs_quinoa_20221209_0007_train,quinoa,0,TRELLIS,oracle,0.45742464491299223
+gs_quinoa_20221209_0007_train,quinoa,0,TRELLIS.2,input,0.29076471286160605
+gs_quinoa_20221209_0007_train,quinoa,0,TRELLIS.2,oracle,0.5013274039540973
+gs_quinoa_20221209_0007_train,quinoa,0,Hunyuan3D 2.1,input,0.22176864530358995
+gs_quinoa_20221209_0007_train,quinoa,0,Hunyuan3D 2.1,oracle,0.3733234171356474
+gs_quinoa_20221209_0007_train,quinoa,0,SEVA,input,0.3480183758905956
+gs_quinoa_20221209_0007_train,quinoa,0,SEVA,oracle,0.4546655757086618
+gs_quinoa_20221209_0007_train,quinoa,0,SV3D,input,0.3959060673202787
+gs_quinoa_20221209_0007_train,quinoa,0,SV3D,oracle,0.4652023379291807
+gs_quinoa_20221212_0007_train,quinoa,0,Ours,input,0.4010024900947298
+gs_quinoa_20221212_0007_train,quinoa,0,Ours,oracle,0.5092748744147164
+gs_quinoa_20221212_0007_train,quinoa,0,TRELLIS,input,0.3843149734394891
+gs_quinoa_20221212_0007_train,quinoa,0,TRELLIS,oracle,0.4372746135507311
+gs_quinoa_20221212_0007_train,quinoa,0,TRELLIS.2,input,0.47530137428215574
+gs_quinoa_20221212_0007_train,quinoa,0,TRELLIS.2,oracle,0.4909963480063847
+gs_quinoa_20221212_0007_train,quinoa,0,Hunyuan3D 2.1,input,0.22084391223532812
+gs_quinoa_20221212_0007_train,quinoa,0,Hunyuan3D 2.1,oracle,0.40844657165663584
+gs_quinoa_20221212_0007_train,quinoa,0,SEVA,input,0.39466133075101034
+gs_quinoa_20221212_0007_train,quinoa,0,SEVA,oracle,0.4592196132455553
+gs_quinoa_20221212_0007_train,quinoa,0,SV3D,input,0.41238611723695484
+gs_quinoa_20221212_0007_train,quinoa,0,SV3D,oracle,0.4979705533811024
+gs_quinoa_20221215_0007_train,quinoa,0,Ours,input,0.4146012770278113
+gs_quinoa_20221215_0007_train,quinoa,0,Ours,oracle,0.49364531465939115
+gs_quinoa_20221215_0007_train,quinoa,0,TRELLIS,input,0.24452996041093553
+gs_quinoa_20221215_0007_train,quinoa,0,TRELLIS,oracle,0.4797565298421042
+gs_quinoa_20221215_0007_train,quinoa,0,TRELLIS.2,input,0.27433315238782335
+gs_quinoa_20221215_0007_train,quinoa,0,TRELLIS.2,oracle,0.49468147328921724
+gs_quinoa_20221215_0007_train,quinoa,0,Hunyuan3D 2.1,input,0.2788825013807842
+gs_quinoa_20221215_0007_train,quinoa,0,Hunyuan3D 2.1,oracle,0.4457165662731443
+gs_quinoa_20221215_0007_train,quinoa,0,SEVA,input,0.3948307399238859
+gs_quinoa_20221215_0007_train,quinoa,0,SEVA,oracle,0.46645792041506084
+gs_quinoa_20221215_0007_train,quinoa,0,SV3D,input,0.4654298084122794
+gs_quinoa_20221215_0007_train,quinoa,0,SV3D,oracle,0.49558368750980925
+gs_quinoa_20221217_0007_train,quinoa,0,Ours,input,0.43464766229901997
+gs_quinoa_20221217_0007_train,quinoa,0,Ours,oracle,0.5142546232257571
+gs_quinoa_20221217_0007_train,quinoa,0,TRELLIS,input,0.4611248714583261
+gs_quinoa_20221217_0007_train,quinoa,0,TRELLIS,oracle,0.47666071568216595
+gs_quinoa_20221217_0007_train,quinoa,0,TRELLIS.2,input,0.28410629608801435
+gs_quinoa_20221217_0007_train,quinoa,0,TRELLIS.2,oracle,0.4921728117125375
+gs_quinoa_20221217_0007_train,quinoa,0,Hunyuan3D 2.1,input,0.28383329829999376
+gs_quinoa_20221217_0007_train,quinoa,0,Hunyuan3D 2.1,oracle,0.45548305979796816
+gs_quinoa_20221217_0007_train,quinoa,0,SEVA,input,0.40826399624347687
+gs_quinoa_20221217_0007_train,quinoa,0,SEVA,oracle,0.4623337813786098
+gs_quinoa_20221217_0007_train,quinoa,0,SV3D,input,0.49527103134563993
+gs_quinoa_20221217_0007_train,quinoa,0,SV3D,oracle,0.5032777147633689
+gs_quinoa_20221220_0007_train,quinoa,0,Ours,input,0.39927644389016287
+gs_quinoa_20221220_0007_train,quinoa,0,Ours,oracle,0.504656759755952
+gs_quinoa_20221220_0007_train,quinoa,0,TRELLIS,input,0.46489247253962923
+gs_quinoa_20221220_0007_train,quinoa,0,TRELLIS,oracle,0.486145766718047
+gs_quinoa_20221220_0007_train,quinoa,0,TRELLIS.2,input,0.17332097302590097
+gs_quinoa_20221220_0007_train,quinoa,0,TRELLIS.2,oracle,0.5257024935313633
+gs_quinoa_20221220_0007_train,quinoa,0,Hunyuan3D 2.1,input,0.3227125459483692
+gs_quinoa_20221220_0007_train,quinoa,0,Hunyuan3D 2.1,oracle,0.46621833954538616
+gs_quinoa_20221220_0007_train,quinoa,0,SEVA,input,0.38432606203215464
+gs_quinoa_20221220_0007_train,quinoa,0,SEVA,oracle,0.4499125693525587
+gs_quinoa_20221220_0007_train,quinoa,0,SV3D,input,0.4428924343415669
+gs_quinoa_20221220_0007_train,quinoa,0,SV3D,oracle,0.4616059533187321
+gs_quinoa_20221223_0007_train,quinoa,0,Ours,input,0.466966980269977
+gs_quinoa_20221223_0007_train,quinoa,0,Ours,oracle,0.5286540346486228
+gs_quinoa_20221223_0007_train,quinoa,0,TRELLIS,input,0.35191368630954195
+gs_quinoa_20221223_0007_train,quinoa,0,TRELLIS,oracle,0.49899374161447796
+gs_quinoa_20221223_0007_train,quinoa,0,TRELLIS.2,input,0.5146800364766803
+gs_quinoa_20221223_0007_train,quinoa,0,TRELLIS.2,oracle,0.5581284378256116
+gs_quinoa_20221223_0007_train,quinoa,0,Hunyuan3D 2.1,input,0.33364613886390415
+gs_quinoa_20221223_0007_train,quinoa,0,Hunyuan3D 2.1,oracle,0.5139741514410291
+gs_quinoa_20221223_0007_train,quinoa,0,SEVA,input,0.4452719283955438
+gs_quinoa_20221223_0007_train,quinoa,0,SEVA,oracle,0.45565827190876007
+gs_quinoa_20221223_0007_train,quinoa,0,SV3D,input,0.4734300822019577
+gs_quinoa_20221223_0007_train,quinoa,0,SV3D,oracle,0.48280617381845203
+gs_quinoa_20221227_0007_train,quinoa,0,Ours,input,0.49157821919236866
+gs_quinoa_20221227_0007_train,quinoa,0,Ours,oracle,0.517723777464458
+gs_quinoa_20221227_0007_train,quinoa,0,TRELLIS,input,0.4716981734548296
+gs_quinoa_20221227_0007_train,quinoa,0,TRELLIS,oracle,0.4920348163161959
+gs_quinoa_20221227_0007_train,quinoa,0,TRELLIS.2,input,0.5139199537890298
+gs_quinoa_20221227_0007_train,quinoa,0,TRELLIS.2,oracle,0.5276386993271964
+gs_quinoa_20221227_0007_train,quinoa,0,Hunyuan3D 2.1,input,0.451158134000642
+gs_quinoa_20221227_0007_train,quinoa,0,Hunyuan3D 2.1,oracle,0.492752873471805
+gs_quinoa_20221227_0007_train,quinoa,0,SEVA,input,0.4708790289504187
+gs_quinoa_20221227_0007_train,quinoa,0,SEVA,oracle,0.47822079275335583
+gs_quinoa_20221227_0007_train,quinoa,0,SV3D,input,0.47191748661654337
+gs_quinoa_20221227_0007_train,quinoa,0,SV3D,oracle,0.4744409109864916
+gs_quinoa_20221230_0007_train,quinoa,0,Ours,input,0.4942681895835059
+gs_quinoa_20221230_0007_train,quinoa,0,Ours,oracle,0.5152862880911145
+gs_quinoa_20221230_0007_train,quinoa,0,TRELLIS,input,0.5032048864024026
+gs_quinoa_20221230_0007_train,quinoa,0,TRELLIS,oracle,0.5310045161417553
+gs_quinoa_20221230_0007_train,quinoa,0,TRELLIS.2,input,0.3692570797034672
+gs_quinoa_20221230_0007_train,quinoa,0,TRELLIS.2,oracle,0.5560785553285054
+gs_quinoa_20221230_0007_train,quinoa,0,Hunyuan3D 2.1,input,0.42434788175991606
+gs_quinoa_20221230_0007_train,quinoa,0,Hunyuan3D 2.1,oracle,0.4629464213337217
+gs_quinoa_20221230_0007_train,quinoa,0,SEVA,input,0.48234722869736807
+gs_quinoa_20221230_0007_train,quinoa,0,SEVA,oracle,0.4972662797995976
+gs_quinoa_20221230_0007_train,quinoa,0,SV3D,input,0.4702873272555215
+gs_quinoa_20221230_0007_train,quinoa,0,SV3D,oracle,0.4957159587315151
+gs_quinoa_20230102_0007_train,quinoa,0,Ours,input,0.5116966835090092
+gs_quinoa_20230102_0007_train,quinoa,0,Ours,oracle,0.5515979826450348
+gs_quinoa_20230102_0007_train,quinoa,0,TRELLIS,input,0.47683633863925934
+gs_quinoa_20230102_0007_train,quinoa,0,TRELLIS,oracle,0.5265009956700462
+gs_quinoa_20230102_0007_train,quinoa,0,TRELLIS.2,input,0.449633994272777
+gs_quinoa_20230102_0007_train,quinoa,0,TRELLIS.2,oracle,0.5757090832505908
+gs_quinoa_20230102_0007_train,quinoa,0,Hunyuan3D 2.1,input,0.46411685006959097
+gs_quinoa_20230102_0007_train,quinoa,0,Hunyuan3D 2.1,oracle,0.4800411654370172
+gs_quinoa_20230102_0007_train,quinoa,0,SEVA,input,0.5093183560030801
+gs_quinoa_20230102_0007_train,quinoa,0,SEVA,oracle,0.5227743536233902
+gs_quinoa_20230102_0007_train,quinoa,0,SV3D,input,0.4856231212615967
+gs_quinoa_20230102_0007_train,quinoa,0,SV3D,oracle,0.5178128842796598
+gs_quinoa_20230105_0007_train,quinoa,0,Ours,input,0.5029008324657168
+gs_quinoa_20230105_0007_train,quinoa,0,Ours,oracle,0.5440954608576638
+gs_quinoa_20230105_0007_train,quinoa,0,TRELLIS,input,0.4831147640943527
+gs_quinoa_20230105_0007_train,quinoa,0,TRELLIS,oracle,0.5429566885743823
+gs_quinoa_20230105_0007_train,quinoa,0,TRELLIS.2,input,0.488049111195973
+gs_quinoa_20230105_0007_train,quinoa,0,TRELLIS.2,oracle,0.544459485581943
+gs_quinoa_20230105_0007_train,quinoa,0,Hunyuan3D 2.1,input,0.43146838886397226
+gs_quinoa_20230105_0007_train,quinoa,0,Hunyuan3D 2.1,oracle,0.46218642379556385
+gs_quinoa_20230105_0007_train,quinoa,0,SEVA,input,0.5069765704018729
+gs_quinoa_20230105_0007_train,quinoa,0,SEVA,oracle,0.5243345839636666
+gs_quinoa_20230105_0007_train,quinoa,0,SV3D,input,0.500864069376673
+gs_quinoa_20230105_0007_train,quinoa,0,SV3D,oracle,0.5452240130731038
+gs_quinoa_20230108_0007_train,quinoa,0,Ours,input,0.47533337133271353
+gs_quinoa_20230108_0007_train,quinoa,0,Ours,oracle,0.5295822024345398
+gs_quinoa_20230108_0007_train,quinoa,0,TRELLIS,input,0.49321466258593966
+gs_quinoa_20230108_0007_train,quinoa,0,TRELLIS,oracle,0.5291925562279565
+gs_quinoa_20230108_0007_train,quinoa,0,TRELLIS.2,input,0.44013927025454386
+gs_quinoa_20230108_0007_train,quinoa,0,TRELLIS.2,oracle,0.5814761178834098
+gs_quinoa_20230108_0007_train,quinoa,0,Hunyuan3D 2.1,input,0.4193004561322076
+gs_quinoa_20230108_0007_train,quinoa,0,Hunyuan3D 2.1,oracle,0.45643046711172375
+gs_quinoa_20230108_0007_train,quinoa,0,SEVA,input,0.4655178870473589
+gs_quinoa_20230108_0007_train,quinoa,0,SEVA,oracle,0.5039247167961938
+gs_quinoa_20230108_0007_train,quinoa,0,SV3D,input,0.5272900462150574
+gs_quinoa_20230108_0007_train,quinoa,0,SV3D,oracle,0.5522293618747166
+gs_quinoa_20230111_0007_train,quinoa,0,Ours,input,0.5178754585129874
+gs_quinoa_20230111_0007_train,quinoa,0,Ours,oracle,0.5450474045106343
+gs_quinoa_20230111_0007_train,quinoa,0,TRELLIS,input,0.5053216751132693
+gs_quinoa_20230111_0007_train,quinoa,0,TRELLIS,oracle,0.5166595173733575
+gs_quinoa_20230111_0007_train,quinoa,0,TRELLIS.2,input,0.47858851296561106
+gs_quinoa_20230111_0007_train,quinoa,0,TRELLIS.2,oracle,0.5379298733813422
+gs_quinoa_20230111_0007_train,quinoa,0,Hunyuan3D 2.1,input,0.39546220217432293
+gs_quinoa_20230111_0007_train,quinoa,0,Hunyuan3D 2.1,oracle,0.41819300396101816
+gs_quinoa_20230111_0007_train,quinoa,0,SEVA,input,0.4892163851431438
+gs_quinoa_20230111_0007_train,quinoa,0,SEVA,oracle,0.5050154264484134
+gs_quinoa_20230111_0007_train,quinoa,0,SV3D,input,0.47536100447177887
+gs_quinoa_20230111_0007_train,quinoa,0,SV3D,oracle,0.5180012775318963
+gs_sequoia_20240213_0007_train,sequoia,0,Ours,input,0.529380779181208
+gs_sequoia_20240213_0007_train,sequoia,0,Ours,oracle,0.7137195127350944
+gs_sequoia_20240213_0007_train,sequoia,0,TRELLIS,input,0.42844706773757935
+gs_sequoia_20240213_0007_train,sequoia,0,TRELLIS,oracle,0.6199304418904441
+gs_sequoia_20240213_0007_train,sequoia,0,TRELLIS.2,input,0.4246912407023566
+gs_sequoia_20240213_0007_train,sequoia,0,TRELLIS.2,oracle,0.6987895539828709
+gs_sequoia_20240213_0007_train,sequoia,0,Hunyuan3D 2.1,input,0.3891427091189793
+gs_sequoia_20240213_0007_train,sequoia,0,Hunyuan3D 2.1,oracle,0.6314940537725177
+gs_sequoia_20240213_0007_train,sequoia,0,SEVA,input,0.3800112370933805
+gs_sequoia_20240213_0007_train,sequoia,0,SEVA,oracle,0.6795409023761749
+gs_sequoia_20240213_0007_train,sequoia,0,SV3D,input,0.5072394524301801
+gs_sequoia_20240213_0007_train,sequoia,0,SV3D,oracle,0.6516928715365273
+gs_sequoia_20240215_0007_train,sequoia,0,Ours,input,0.5402135636125293
+gs_sequoia_20240215_0007_train,sequoia,0,Ours,oracle,0.6953075783593314
+gs_sequoia_20240215_0007_train,sequoia,0,TRELLIS,input,0.5237418519599097
+gs_sequoia_20240215_0007_train,sequoia,0,TRELLIS,oracle,0.6397571521145957
+gs_sequoia_20240215_0007_train,sequoia,0,TRELLIS.2,input,0.4471887818404606
+gs_sequoia_20240215_0007_train,sequoia,0,TRELLIS.2,oracle,0.6235480010509491
+gs_sequoia_20240215_0007_train,sequoia,0,Hunyuan3D 2.1,input,0.3301393155540739
+gs_sequoia_20240215_0007_train,sequoia,0,Hunyuan3D 2.1,oracle,0.5647090758596148
+gs_sequoia_20240215_0007_train,sequoia,0,SEVA,input,0.4748197942972183
+gs_sequoia_20240215_0007_train,sequoia,0,SEVA,oracle,0.6513848687921252
+gs_sequoia_20240215_0007_train,sequoia,0,SV3D,input,0.5541950698409762
+gs_sequoia_20240215_0007_train,sequoia,0,SV3D,oracle,0.6620564460754395
+gs_sequoia_20240218_0007_train,sequoia,0,Ours,input,0.5398277853216443
+gs_sequoia_20240218_0007_train,sequoia,0,Ours,oracle,0.7055035999843052
+gs_sequoia_20240218_0007_train,sequoia,0,TRELLIS,input,0.55357668868133
+gs_sequoia_20240218_0007_train,sequoia,0,TRELLIS,oracle,0.631197282246181
+gs_sequoia_20240218_0007_train,sequoia,0,TRELLIS.2,input,0.4481888051543917
+gs_sequoia_20240218_0007_train,sequoia,0,TRELLIS.2,oracle,0.6824828258582524
+gs_sequoia_20240218_0007_train,sequoia,0,Hunyuan3D 2.1,input,0.45832611194678713
+gs_sequoia_20240218_0007_train,sequoia,0,Hunyuan3D 2.1,oracle,0.6499455571174622
+gs_sequoia_20240218_0007_train,sequoia,0,SEVA,input,0.484274651323046
+gs_sequoia_20240218_0007_train,sequoia,0,SEVA,oracle,0.6277317447321755
+gs_sequoia_20240218_0007_train,sequoia,0,SV3D,input,0.5676810592412949
+gs_sequoia_20240218_0007_train,sequoia,0,SV3D,oracle,0.6570018870489938
+gs_sequoia_20240222_0007_train,sequoia,0,Ours,input,0.5398079263312476
+gs_sequoia_20240222_0007_train,sequoia,0,Ours,oracle,0.6869262840066638
+gs_sequoia_20240222_0007_train,sequoia,0,TRELLIS,input,0.3729531339236668
+gs_sequoia_20240222_0007_train,sequoia,0,TRELLIS,oracle,0.6355032239641462
+gs_sequoia_20240222_0007_train,sequoia,0,TRELLIS.2,input,0.3534816652536392
+gs_sequoia_20240222_0007_train,sequoia,0,TRELLIS.2,oracle,0.6300361709935325
+gs_sequoia_20240222_0007_train,sequoia,0,Hunyuan3D 2.1,input,0.23073230683803558
+gs_sequoia_20240222_0007_train,sequoia,0,Hunyuan3D 2.1,oracle,0.5764651468821934
+gs_sequoia_20240222_0007_train,sequoia,0,SEVA,input,0.4862977351461138
+gs_sequoia_20240222_0007_train,sequoia,0,SEVA,oracle,0.6106977547918048
+gs_sequoia_20240222_0007_train,sequoia,0,SV3D,input,0.5498618291957038
+gs_sequoia_20240222_0007_train,sequoia,0,SV3D,oracle,0.6519337381635394
+gs_sequoia_20240225_0007_train,sequoia,0,Ours,input,0.5668845900467464
+gs_sequoia_20240225_0007_train,sequoia,0,Ours,oracle,0.6725409754684993
+gs_sequoia_20240225_0007_train,sequoia,0,TRELLIS,input,0.37597899564674925
+gs_sequoia_20240225_0007_train,sequoia,0,TRELLIS,oracle,0.6184972652367183
+gs_sequoia_20240225_0007_train,sequoia,0,TRELLIS.2,input,0.4012922729764666
+gs_sequoia_20240225_0007_train,sequoia,0,TRELLIS.2,oracle,0.6449097437517983
+gs_sequoia_20240225_0007_train,sequoia,0,Hunyuan3D 2.1,input,0.2852269634604454
+gs_sequoia_20240225_0007_train,sequoia,0,Hunyuan3D 2.1,oracle,0.578358565058027
+gs_sequoia_20240225_0007_train,sequoia,0,SEVA,input,0.4894255357129233
+gs_sequoia_20240225_0007_train,sequoia,0,SEVA,oracle,0.6091317577021462
+gs_sequoia_20240225_0007_train,sequoia,0,SV3D,input,0.5291753751891
+gs_sequoia_20240225_0007_train,sequoia,0,SV3D,oracle,0.6473628836018699
+gs_sequoia_20240227_0007_train,sequoia,0,Ours,input,0.5437487853424889
+gs_sequoia_20240227_0007_train,sequoia,0,Ours,oracle,0.6503107122012547
+gs_sequoia_20240227_0007_train,sequoia,0,TRELLIS,input,0.33638774497168406
+gs_sequoia_20240227_0007_train,sequoia,0,TRELLIS,oracle,0.6174926885536739
+gs_sequoia_20240227_0007_train,sequoia,0,TRELLIS.2,input,0.4060560443571636
+gs_sequoia_20240227_0007_train,sequoia,0,TRELLIS.2,oracle,0.6628842055797577
+gs_sequoia_20240227_0007_train,sequoia,0,Hunyuan3D 2.1,input,0.30611397113118854
+gs_sequoia_20240227_0007_train,sequoia,0,Hunyuan3D 2.1,oracle,0.5675907816205706
+gs_sequoia_20240227_0007_train,sequoia,0,SEVA,input,0.4731213407857077
+gs_sequoia_20240227_0007_train,sequoia,0,SEVA,oracle,0.6011556727545602
+gs_sequoia_20240227_0007_train,sequoia,0,SV3D,input,0.5510480276175908
+gs_sequoia_20240227_0007_train,sequoia,0,SV3D,oracle,0.6258720670427594
+gs_sequoia_20240301_0007_train,sequoia,0,Ours,input,0.5579567189727511
+gs_sequoia_20240301_0007_train,sequoia,0,Ours,oracle,0.6463183888367244
+gs_sequoia_20240301_0007_train,sequoia,0,TRELLIS,input,0.40623834303447176
+gs_sequoia_20240301_0007_train,sequoia,0,TRELLIS,oracle,0.6040692797728947
+gs_sequoia_20240301_0007_train,sequoia,0,TRELLIS.2,input,0.40391144369329723
+gs_sequoia_20240301_0007_train,sequoia,0,TRELLIS.2,oracle,0.633356545652662
+gs_sequoia_20240301_0007_train,sequoia,0,Hunyuan3D 2.1,input,0.4207207815987723
+gs_sequoia_20240301_0007_train,sequoia,0,Hunyuan3D 2.1,oracle,0.5844168450151171
+gs_sequoia_20240301_0007_train,sequoia,0,SEVA,input,0.4623060588325773
+gs_sequoia_20240301_0007_train,sequoia,0,SEVA,oracle,0.6062365642615727
+gs_sequoia_20240301_0007_train,sequoia,0,SV3D,input,0.541810787149838
+gs_sequoia_20240301_0007_train,sequoia,0,SV3D,oracle,0.6110120117664337
+gs_sequoia_20240303_0007_train,sequoia,0,Ours,input,0.5385523438453674
+gs_sequoia_20240303_0007_train,sequoia,0,Ours,oracle,0.6376390499728066
+gs_sequoia_20240303_0007_train,sequoia,0,TRELLIS,input,0.41810193232127596
+gs_sequoia_20240303_0007_train,sequoia,0,TRELLIS,oracle,0.6031981067998069
+gs_sequoia_20240303_0007_train,sequoia,0,TRELLIS.2,input,0.4657205662557057
+gs_sequoia_20240303_0007_train,sequoia,0,TRELLIS.2,oracle,0.6358830971377236
+gs_sequoia_20240303_0007_train,sequoia,0,Hunyuan3D 2.1,input,0.41001815029553007
+gs_sequoia_20240303_0007_train,sequoia,0,Hunyuan3D 2.1,oracle,0.5874343429292951
+gs_sequoia_20240303_0007_train,sequoia,0,SEVA,input,0.4918762764760426
+gs_sequoia_20240303_0007_train,sequoia,0,SEVA,oracle,0.615155816078186
+gs_sequoia_20240303_0007_train,sequoia,0,SV3D,input,0.5353580010788781
+gs_sequoia_20240303_0007_train,sequoia,0,SV3D,oracle,0.5969049334526062
+gs_sequoia_20240306_0007_train,sequoia,0,Ours,input,0.5234376596552985
+gs_sequoia_20240306_0007_train,sequoia,0,Ours,oracle,0.6177051876272474
+gs_sequoia_20240306_0007_train,sequoia,0,TRELLIS,input,0.4327475662742342
+gs_sequoia_20240306_0007_train,sequoia,0,TRELLIS,oracle,0.5941137416022164
+gs_sequoia_20240306_0007_train,sequoia,0,TRELLIS.2,input,0.4609675407409668
+gs_sequoia_20240306_0007_train,sequoia,0,TRELLIS.2,oracle,0.6199858997549329
+gs_sequoia_20240306_0007_train,sequoia,0,Hunyuan3D 2.1,input,0.46439829894474577
+gs_sequoia_20240306_0007_train,sequoia,0,Hunyuan3D 2.1,oracle,0.5980837430272784
+gs_sequoia_20240306_0007_train,sequoia,0,SEVA,input,0.5094061685459954
+gs_sequoia_20240306_0007_train,sequoia,0,SEVA,oracle,0.5912884601524898
+gs_sequoia_20240306_0007_train,sequoia,0,SV3D,input,0.565063978944506
+gs_sequoia_20240306_0007_train,sequoia,0,SV3D,oracle,0.6007597020694188
+gs_sequoia_20240308_0007_train,sequoia,0,Ours,input,0.5263310479266303
+gs_sequoia_20240308_0007_train,sequoia,0,Ours,oracle,0.6325368327753884
+gs_sequoia_20240308_0007_train,sequoia,0,TRELLIS,input,0.4557108517204012
+gs_sequoia_20240308_0007_train,sequoia,0,TRELLIS,oracle,0.5913370379379818
+gs_sequoia_20240308_0007_train,sequoia,0,TRELLIS.2,input,0.45955867639609743
+gs_sequoia_20240308_0007_train,sequoia,0,TRELLIS.2,oracle,0.6227005507264819
+gs_sequoia_20240308_0007_train,sequoia,0,Hunyuan3D 2.1,input,0.46907490704740795
+gs_sequoia_20240308_0007_train,sequoia,0,Hunyuan3D 2.1,oracle,0.5936948316437858
+gs_sequoia_20240308_0007_train,sequoia,0,SEVA,input,0.5221997158867973
+gs_sequoia_20240308_0007_train,sequoia,0,SEVA,oracle,0.5957905650138855
+gs_sequoia_20240308_0007_train,sequoia,0,SV3D,input,0.5472451852900642
+gs_sequoia_20240308_0007_train,sequoia,0,SV3D,oracle,0.5945301013333457
+gs_sequoia_20240310_0007_train,sequoia,0,Ours,input,0.5156499168702534
+gs_sequoia_20240310_0007_train,sequoia,0,Ours,oracle,0.6074576590742383
+gs_sequoia_20240310_0007_train,sequoia,0,TRELLIS,input,0.45908205424036297
+gs_sequoia_20240310_0007_train,sequoia,0,TRELLIS,oracle,0.5989428460597992
+gs_sequoia_20240310_0007_train,sequoia,0,TRELLIS.2,input,0.42087418479578836
+gs_sequoia_20240310_0007_train,sequoia,0,TRELLIS.2,oracle,0.6178853000913348
+gs_sequoia_20240310_0007_train,sequoia,0,Hunyuan3D 2.1,input,0.46438402788979666
+gs_sequoia_20240310_0007_train,sequoia,0,Hunyuan3D 2.1,oracle,0.5951760751860482
+gs_sequoia_20240310_0007_train,sequoia,0,SEVA,input,0.51739644578525
+gs_sequoia_20240310_0007_train,sequoia,0,SEVA,oracle,0.5859871506690979
+gs_sequoia_20240310_0007_train,sequoia,0,SV3D,input,0.5668899927820478
+gs_sequoia_20240310_0007_train,sequoia,0,SV3D,oracle,0.5933100623743874
+gs_sequoia_20240314_0007_train,sequoia,0,Ours,input,0.5381620121853692
+gs_sequoia_20240314_0007_train,sequoia,0,Ours,oracle,0.6036307684012822
+gs_sequoia_20240314_0007_train,sequoia,0,TRELLIS,input,0.42943352247987476
+gs_sequoia_20240314_0007_train,sequoia,0,TRELLIS,oracle,0.5872111448219844
+gs_sequoia_20240314_0007_train,sequoia,0,TRELLIS.2,input,0.5492618083953857
+gs_sequoia_20240314_0007_train,sequoia,0,TRELLIS.2,oracle,0.5969089610236031
+gs_sequoia_20240314_0007_train,sequoia,0,Hunyuan3D 2.1,input,0.546470188668796
+gs_sequoia_20240314_0007_train,sequoia,0,Hunyuan3D 2.1,oracle,0.5969816999776023
+gs_sequoia_20240314_0007_train,sequoia,0,SEVA,input,0.5069245823792049
+gs_sequoia_20240314_0007_train,sequoia,0,SEVA,oracle,0.5781363802296775
+gs_sequoia_20240314_0007_train,sequoia,0,SV3D,input,0.5117419681378773
+gs_sequoia_20240314_0007_train,sequoia,0,SV3D,oracle,0.5780608590160098
+gs_sequoia_20240319_0007_train,sequoia,0,Ours,input,0.5409430414438248
+gs_sequoia_20240319_0007_train,sequoia,0,Ours,oracle,0.6092346438339779
+gs_sequoia_20240319_0007_train,sequoia,0,TRELLIS,input,0.5128758762563977
+gs_sequoia_20240319_0007_train,sequoia,0,TRELLIS,oracle,0.5867724376065391
+gs_sequoia_20240319_0007_train,sequoia,0,TRELLIS.2,input,0.46831840702465605
+gs_sequoia_20240319_0007_train,sequoia,0,TRELLIS.2,oracle,0.6055151224136353
+gs_sequoia_20240319_0007_train,sequoia,0,Hunyuan3D 2.1,input,0.5808333541665759
+gs_sequoia_20240319_0007_train,sequoia,0,Hunyuan3D 2.1,oracle,0.6054196996348244
+gs_sequoia_20240319_0007_train,sequoia,0,SEVA,input,0.5093835485833031
+gs_sequoia_20240319_0007_train,sequoia,0,SEVA,oracle,0.5677613530840192
+gs_sequoia_20240319_0007_train,sequoia,0,SV3D,input,0.5380789807864598
+gs_sequoia_20240319_0007_train,sequoia,0,SV3D,oracle,0.5748647983585086
+gs_sequoia_20240326_0007_train,sequoia,0,Ours,input,0.5385268649884632
+gs_sequoia_20240326_0007_train,sequoia,0,Ours,oracle,0.5921590924263
+gs_sequoia_20240326_0007_train,sequoia,0,TRELLIS,input,0.48248074097292765
+gs_sequoia_20240326_0007_train,sequoia,0,TRELLIS,oracle,0.5871761952127729
+gs_sequoia_20240326_0007_train,sequoia,0,TRELLIS.2,input,0.5742366824831281
+gs_sequoia_20240326_0007_train,sequoia,0,TRELLIS.2,oracle,0.5947679196085248
+gs_sequoia_20240326_0007_train,sequoia,0,Hunyuan3D 2.1,input,0.5627047036375318
+gs_sequoia_20240326_0007_train,sequoia,0,Hunyuan3D 2.1,oracle,0.617397163595472
+gs_sequoia_20240326_0007_train,sequoia,0,SEVA,input,0.5014903992414474
+gs_sequoia_20240326_0007_train,sequoia,0,SEVA,oracle,0.5688149482011795
+gs_sequoia_20240326_0007_train,sequoia,0,SV3D,input,0.5714617882456098
+gs_sequoia_20240326_0007_train,sequoia,0,SV3D,oracle,0.5982818220342908
+gs_sequoia_20240412_0007_train,sequoia,0,Ours,input,0.5188528980527606
+gs_sequoia_20240412_0007_train,sequoia,0,Ours,oracle,0.6114645557744163
+gs_sequoia_20240412_0007_train,sequoia,0,TRELLIS,input,0.4989942865712302
+gs_sequoia_20240412_0007_train,sequoia,0,TRELLIS,oracle,0.5702478970800128
+gs_sequoia_20240412_0007_train,sequoia,0,TRELLIS.2,input,0.5825439861842564
+gs_sequoia_20240412_0007_train,sequoia,0,TRELLIS.2,oracle,0.5949028772967202
+gs_sequoia_20240412_0007_train,sequoia,0,Hunyuan3D 2.1,input,0.5743631763117654
+gs_sequoia_20240412_0007_train,sequoia,0,Hunyuan3D 2.1,oracle,0.5988053636891502
+gs_sequoia_20240412_0007_train,sequoia,0,SEVA,input,0.4547960694347109
+gs_sequoia_20240412_0007_train,sequoia,0,SEVA,oracle,0.5394534362213952
+gs_sequoia_20240412_0007_train,sequoia,0,SV3D,input,0.48775633743831087
+gs_sequoia_20240412_0007_train,sequoia,0,SV3D,oracle,0.5814547453607831
+gs_sequoia_20240507_0007_train,sequoia,0,Ours,input,0.5407996731145042
+gs_sequoia_20240507_0007_train,sequoia,0,Ours,oracle,0.5820640921592712
+gs_sequoia_20240507_0007_train,sequoia,0,TRELLIS,input,0.5241322070360184
+gs_sequoia_20240507_0007_train,sequoia,0,TRELLIS,oracle,0.5831586761134011
+gs_sequoia_20240507_0007_train,sequoia,0,TRELLIS.2,input,0.5240727705614907
+gs_sequoia_20240507_0007_train,sequoia,0,TRELLIS.2,oracle,0.580579685313361
+gs_sequoia_20240507_0007_train,sequoia,0,Hunyuan3D 2.1,input,0.5742006919213704
+gs_sequoia_20240507_0007_train,sequoia,0,Hunyuan3D 2.1,oracle,0.5978491093431201
+gs_sequoia_20240507_0007_train,sequoia,0,SEVA,input,0.5091694210256849
+gs_sequoia_20240507_0007_train,sequoia,0,SEVA,oracle,0.5669428024973188
+gs_sequoia_20240507_0007_train,sequoia,0,SV3D,input,0.554584686245237
+gs_sequoia_20240507_0007_train,sequoia,0,SV3D,oracle,0.5847977314676557
+gs_sequoia_20240524_0007_train,sequoia,0,Ours,input,0.5226317835705621
+gs_sequoia_20240524_0007_train,sequoia,0,Ours,oracle,0.5691030046769551
+gs_sequoia_20240524_0007_train,sequoia,0,TRELLIS,input,0.4418580595936094
+gs_sequoia_20240524_0007_train,sequoia,0,TRELLIS,oracle,0.5690505249159676
+gs_sequoia_20240524_0007_train,sequoia,0,TRELLIS.2,input,0.48216748237609863
+gs_sequoia_20240524_0007_train,sequoia,0,TRELLIS.2,oracle,0.5947145521640778
+gs_sequoia_20240524_0007_train,sequoia,0,Hunyuan3D 2.1,input,0.4352061791079385
+gs_sequoia_20240524_0007_train,sequoia,0,Hunyuan3D 2.1,oracle,0.5757358648947307
+gs_sequoia_20240524_0007_train,sequoia,0,SEVA,input,0.4836436914546149
+gs_sequoia_20240524_0007_train,sequoia,0,SEVA,oracle,0.5459063819476536
+gs_sequoia_20240524_0007_train,sequoia,0,SV3D,input,0.5443105250597
+gs_sequoia_20240524_0007_train,sequoia,0,SV3D,oracle,0.5660461400236402

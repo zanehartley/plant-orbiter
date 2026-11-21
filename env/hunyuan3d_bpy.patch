@@ -1,0 +1,16 @@
+diff --git a/hy3dpaint/DifferentiableRenderer/mesh_utils.py b/hy3dpaint/DifferentiableRenderer/mesh_utils.py
+index 5b3e831..cb08d33 100644
+--- a/hy3dpaint/DifferentiableRenderer/mesh_utils.py
++++ b/hy3dpaint/DifferentiableRenderer/mesh_utils.py
+@@ -14,7 +14,10 @@
+ 
+ import os
+ import cv2
+-import bpy
++try:
++    import bpy  # only needed for the optional .glb export (orbit_cam: not installed)
++except ImportError:
++    bpy = None
+ import math
+ import numpy as np
+ from io import StringIO

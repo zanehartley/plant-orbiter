@@ -1,0 +1,12 @@
+data/
+third_party/
+__pycache__/
+*.pyc
+RELEASE_STATUS.md
+README_t23d_original.md
+# written by the table scripts next to their inputs
+results/**/summary.md
+results/**/count_metrics.md
+results/**/count_table.tex
+results/**/agreement.md
+.pytest_cache/

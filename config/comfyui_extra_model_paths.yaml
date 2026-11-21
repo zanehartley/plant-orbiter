@@ -1,0 +1,9 @@
+# Tells ComfyUI to load weights from $ORBIT_WEIGHTS/comfyui instead of ComfyUI/models (ComfyUI expands the variable,
+# so source config/paths.sh before starting it). Pass with --extra-model-paths-config config/comfyui_extra_model_paths.yaml
+orbit_cam:
+  base_path: $ORBIT_WEIGHTS/comfyui
+  diffusion_models: diffusion_models
+  text_encoders: text_encoders
+  vae: vae
+  loras: loras
+  background_removal: background_removal

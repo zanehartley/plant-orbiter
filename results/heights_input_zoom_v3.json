@@ -1,0 +1,1532 @@
+{
+ "gs_quinoa_20221117": {
+  "base_cm": 3.9788178014065405,
+  "reference": {
+   "height_cm": 2.865334308671976,
+   "width_cm": 9.347642951116821,
+   "hull_volume_cm3": 38.370840580389135,
+   "surface_area_cm2": 102.69
+  },
+  "Ours": {
+   "height_cm": 5.046628126824499,
+   "width_cm": 23.43688558019216,
+   "hull_volume_cm3": 1147.4875614847365,
+   "surface_area_cm2": 985.9499999999999
+  },
+  "TRELLIS": {
+   "height_cm": 3.9621667292651495,
+   "width_cm": 21.154120270049464,
+   "hull_volume_cm3": 454.6266824018556,
+   "surface_area_cm2": 406.44
+  },
+  "TRELLIS.2": {
+   "height_cm": 3.3630147311429135,
+   "width_cm": 21.136487952982694,
+   "hull_volume_cm3": 346.6047173936735,
+   "surface_area_cm2": 313.38
+  },
+  "Hunyuan3D 2.1": {
+   "height_cm": 5.288448841353123,
+   "width_cm": 20.246469810752068,
+   "hull_volume_cm3": 520.6426213522415,
+   "surface_area_cm2": 557.4599999999999
+  },
+  "SEVA": {
+   "height_cm": 5.548353812738102,
+   "width_cm": 21.281999682111742,
+   "hull_volume_cm3": 270.76190921964684,
+   "surface_area_cm2": 279.53999999999996
+  },
+  "SV3D": {
+   "height_cm": 5.514471257207293,
+   "width_cm": 22.893755587227012,
+   "hull_volume_cm3": 691.3948818728916,
+   "surface_area_cm2": 887.4
+  }
+ },
+ "gs_quinoa_20221122": {
+  "base_cm": 4.057582357186582,
+  "reference": {
+   "height_cm": 6.526712992950029,
+   "width_cm": 8.668129852093603,
+   "hull_volume_cm3": 220.81200056941427,
+   "surface_area_cm2": 193.76999999999998
+  },
+  "Ours": {
+   "height_cm": 12.23318873211082,
+   "width_cm": 20.34067866783702,
+   "hull_volume_cm3": 1866.723197334599,
+   "surface_area_cm2": 907.8299999999999
+  },
+  "TRELLIS": {
+   "height_cm": 5.1271956526585925,
+   "width_cm": 20.673353910229196,
+   "hull_volume_cm3": 549.64293603398,
+   "surface_area_cm2": 155.51999999999998
+  },
+  "TRELLIS.2": {
+   "height_cm": 9.941824887946746,
+   "width_cm": 19.33207930068464,
+   "hull_volume_cm3": 940.8157771975506,
+   "surface_area_cm2": 416.07
+  },
+  "Hunyuan3D 2.1": {
+   "height_cm": 11.159694977146989,
+   "width_cm": 19.256930708668165,
+   "hull_volume_cm3": 987.1052930108474,
+   "surface_area_cm2": 497.88
+  },
+  "SEVA": {
+   "height_cm": 8.692426619759457,
+   "width_cm": 21.758394036790932,
+   "hull_volume_cm3": 1114.3023428639162,
+   "surface_area_cm2": 466.28999999999996
+  },
+  "SV3D": {
+   "height_cm": 8.3720414057124,
+   "width_cm": 21.0516397662993,
+   "hull_volume_cm3": 822.7536380953316,
+   "surface_area_cm2": 528.21
+  }
+ },
+ "gs_quinoa_20221125": {
+  "base_cm": 4.066180285924303,
+  "reference": {
+   "height_cm": 11.26803983775104,
+   "width_cm": 9.213551252673518,
+   "hull_volume_cm3": 365.6806552698173,
+   "surface_area_cm2": 282.06
+  },
+  "Ours": {
+   "height_cm": 12.06631053174605,
+   "width_cm": 20.594175368313806,
+   "hull_volume_cm3": 1720.958805284667,
+   "surface_area_cm2": 997.8299999999999
+  },
+  "TRELLIS": {
+   "height_cm": 13.387877390175685,
+   "width_cm": 27.586278173021324,
+   "hull_volume_cm3": 2668.138161145471,
+   "surface_area_cm2": 1295.28
+  },
+  "TRELLIS.2": {
+   "height_cm": 14.517093185964443,
+   "width_cm": 20.95215492993694,
+   "hull_volume_cm3": 1516.6494929684684,
+   "surface_area_cm2": 594.4499999999999
+  },
+  "Hunyuan3D 2.1": {
+   "height_cm": 14.736845664661983,
+   "width_cm": 20.428327064423,
+   "hull_volume_cm3": 1634.6768078628468,
+   "surface_area_cm2": 718.65
+  },
+  "SV3D": {
+   "height_cm": 12.509973034797001,
+   "width_cm": 21.391652836362,
+   "hull_volume_cm3": 1209.5943587932547,
+   "surface_area_cm2": 661.77
+  },
+  "SEVA": {
+   "height_cm": 12.432528025001416,
+   "width_cm": 21.747656326460742,
+   "hull_volume_cm3": 1561.2123973039284,
+   "surface_area_cm2": 756.0899999999999
+  }
+ },
+ "gs_quinoa_20221129": {
+  "base_cm": 4.0739973138091035,
+  "reference": {
+   "height_cm": 14.839052836087852,
+   "width_cm": 10.525069122454731,
+   "hull_volume_cm3": 837.6085464738908,
+   "surface_area_cm2": 420.3
+  },
+  "Ours": {
+   "height_cm": 16.369306245166676,
+   "width_cm": 22.3227283525882,
+   "hull_volume_cm3": 2881.4813575797634,
+   "surface_area_cm2": 951.3
+  },
+  "TRELLIS": {
+   "height_cm": 19.645922204218408,
+   "width_cm": 24.078185632700535,
+   "hull_volume_cm3": 3655.6818166138123,
+   "surface_area_cm2": 1174.77
+  },
+  "TRELLIS.2": {
+   "height_cm": 16.66332422075421,
+   "width_cm": 25.406492221830725,
+   "hull_volume_cm3": 3176.415058725764,
+   "surface_area_cm2": 632.6999999999999
+  },
+  "Hunyuan3D 2.1": {
+   "height_cm": 16.72205135912515,
+   "width_cm": 19.43836056226412,
+   "hull_volume_cm3": 2067.8258828512394,
+   "surface_area_cm2": 810.63
+  },
+  "SEVA": {
+   "height_cm": 16.03228905891106,
+   "width_cm": 20.140146738381453,
+   "hull_volume_cm3": 1859.660369255911,
+   "surface_area_cm2": 729.27
+  },
+  "SV3D": {
+   "height_cm": 15.062849615992542,
+   "width_cm": 20.467565667713274,
+   "hull_volume_cm3": 1987.102517594405,
+   "surface_area_cm2": 938.61
+  }
+ },
+ "gs_quinoa_20221206": {
+  "base_cm": 4.149318696802718,
+  "reference": {
+   "height_cm": 20.860362363405937,
+   "width_cm": 17.324396537366184,
+   "hull_volume_cm3": 3489.0778785684256,
+   "surface_area_cm2": 883.35
+  },
+  "Ours": {
+   "height_cm": 21.44028782894642,
+   "width_cm": 15.562802253000307,
+   "hull_volume_cm3": 3473.4234658737196,
+   "surface_area_cm2": 917.37
+  },
+  "TRELLIS": {
+   "height_cm": 22.015160022760117,
+   "width_cm": 19.41896526904227,
+   "hull_volume_cm3": 4437.9282421444395,
+   "surface_area_cm2": 1176.6599999999999
+  },
+  "TRELLIS.2": {
+   "height_cm": 21.32896804545814,
+   "width_cm": 21.75214829377563,
+   "hull_volume_cm3": 4946.766281260328,
+   "surface_area_cm2": 974.3399999999999
+  },
+  "Hunyuan3D 2.1": {
+   "height_cm": 24.74556880570034,
+   "width_cm": 26.940235378029463,
+   "hull_volume_cm3": 4061.251653869382,
+   "surface_area_cm2": 740.79
+  },
+  "SEVA": {
+   "height_cm": 21.14470618070795,
+   "width_cm": 21.980524156435756,
+   "hull_volume_cm3": 3662.531271578891,
+   "surface_area_cm2": 1209.51
+  },
+  "SV3D": {
+   "height_cm": 20.741210530537117,
+   "width_cm": 21.222592444613063,
+   "hull_volume_cm3": 3456.0277968518258,
+   "surface_area_cm2": 1253.61
+  }
+ },
+ "gs_quinoa_20221209": {
+  "base_cm": 4.167686948185783,
+  "reference": {
+   "height_cm": 26.226120162805437,
+   "width_cm": 17.94867794158165,
+   "hull_volume_cm3": 5381.640579234968,
+   "surface_area_cm2": 1293.12
+  },
+  "Ours": {
+   "height_cm": 26.446929449221805,
+   "width_cm": 18.599659291515742,
+   "hull_volume_cm3": 5579.879711242555,
+   "surface_area_cm2": 1441.26
+  },
+  "TRELLIS": {
+   "height_cm": 28.15134772028783,
+   "width_cm": 18.725693099107055,
+   "hull_volume_cm3": 6537.797546367816,
+   "surface_area_cm2": 1475.19
+  },
+  "TRELLIS.2": {
+   "height_cm": 35.39647366009996,
+   "width_cm": 27.096786747588872,
+   "hull_volume_cm3": 13373.10516858288,
+   "surface_area_cm2": 1933.6499999999999
+  },
+  "Hunyuan3D 2.1": {
+   "height_cm": 28.505075463372496,
+   "width_cm": 24.65851846764039,
+   "hull_volume_cm3": 4817.414679125513,
+   "surface_area_cm2": 1012.9499999999999
+  },
+  "SEVA": {
+   "height_cm": 27.341060073536784,
+   "width_cm": 20.825561216361223,
+   "hull_volume_cm3": 5340.129732602186,
+   "surface_area_cm2": 1328.1299999999999
+  },
+  "SV3D": {
+   "height_cm": 25.81570256224476,
+   "width_cm": 21.793605021260802,
+   "hull_volume_cm3": 5279.390466821552,
+   "surface_area_cm2": 1544.31
+  }
+ },
+ "gs_quinoa_20221212": {
+  "base_cm": 4.175708550460928,
+  "reference": {
+   "height_cm": 28.600561134023017,
+   "width_cm": 17.877054006014212,
+   "hull_volume_cm3": 6719.31410480587,
+   "surface_area_cm2": 1583.55
+  },
+  "Ours": {
+   "height_cm": 28.635697111174384,
+   "width_cm": 20.743911747559697,
+   "hull_volume_cm3": 7049.003260774805,
+   "surface_area_cm2": 1805.85
+  },
+  "TRELLIS": {
+   "height_cm": 30.501087527954887,
+   "width_cm": 22.7862934327619,
+   "hull_volume_cm3": 7406.928608116636,
+   "surface_area_cm2": 1756.08
+  },
+  "TRELLIS.2": {
+   "height_cm": 28.735200443137582,
+   "width_cm": 18.503319723756334,
+   "hull_volume_cm3": 6537.038671484897,
+   "surface_area_cm2": 1191.1499999999999
+  },
+  "Hunyuan3D 2.1": {
+   "height_cm": 30.947646618669737,
+   "width_cm": 24.236596284491693,
+   "hull_volume_cm3": 5860.179508805005,
+   "surface_area_cm2": 1128.4199999999998
+  },
+  "SV3D": {
+   "height_cm": 28.219159926347977,
+   "width_cm": 21.47000670029452,
+   "hull_volume_cm3": 6552.174847273324,
+   "surface_area_cm2": 1961.82
+  },
+  "SEVA": {
+   "height_cm": 29.008631584879097,
+   "width_cm": 21.06250586846232,
+   "hull_volume_cm3": 5951.184666258896,
+   "surface_area_cm2": 1763.55
+  }
+ },
+ "gs_quinoa_20221215": {
+  "base_cm": 4.192445913140625,
+  "reference": {
+   "height_cm": 33.45683847086186,
+   "width_cm": 17.71425174578179,
+   "hull_volume_cm3": 8626.33464746593,
+   "surface_area_cm2": 1958.58
+  },
+  "Ours": {
+   "height_cm": 33.29133581830702,
+   "width_cm": 21.538609250201148,
+   "hull_volume_cm3": 7745.376389001979,
+   "surface_area_cm2": 2011.32
+  },
+  "TRELLIS": {
+   "height_cm": 33.361796033957255,
+   "width_cm": 18.17295063810861,
+   "hull_volume_cm3": 7660.7224126911005,
+   "surface_area_cm2": 2167.65
+  },
+  "TRELLIS.2": {
+   "height_cm": 32.89018830511638,
+   "width_cm": 20.610787435437658,
+   "hull_volume_cm3": 7036.715611239563,
+   "surface_area_cm2": 1812.06
+  },
+  "Hunyuan3D 2.1": {
+   "height_cm": 33.96643018084448,
+   "width_cm": 23.641387986762794,
+   "hull_volume_cm3": 7560.759816689683,
+   "surface_area_cm2": 1630.98
+  },
+  "SEVA": {
+   "height_cm": 33.78658075372255,
+   "width_cm": 23.183459790754775,
+   "hull_volume_cm3": 7414.644351374965,
+   "surface_area_cm2": 1922.31
+  },
+  "SV3D": {
+   "height_cm": 32.96861340827004,
+   "width_cm": 21.938349223439456,
+   "hull_volume_cm3": 7674.686421814591,
+   "surface_area_cm2": 2098.71
+  }
+ },
+ "gs_quinoa_20221217": {
+  "base_cm": 4.235185234116226,
+  "reference": {
+   "height_cm": 37.522743605937755,
+   "width_cm": 17.95115450691494,
+   "hull_volume_cm3": 10045.28532271438,
+   "surface_area_cm2": 2201.4
+  },
+  "Ours": {
+   "height_cm": 36.21723710552399,
+   "width_cm": 24.198801667871614,
+   "hull_volume_cm3": 11450.63910865749,
+   "surface_area_cm2": 2600.19
+  },
+  "TRELLIS": {
+   "height_cm": 37.26360348768631,
+   "width_cm": 19.836034260605956,
+   "hull_volume_cm3": 9229.661478367183,
+   "surface_area_cm2": 2291.94
+  },
+  "TRELLIS.2": {
+   "height_cm": 37.46497591337481,
+   "width_cm": 23.85775969263224,
+   "hull_volume_cm3": 11769.273332070838,
+   "surface_area_cm2": 2217.42
+  },
+  "Hunyuan3D 2.1": {
+   "height_cm": 37.324051763022695,
+   "width_cm": 23.368178655879632,
+   "hull_volume_cm3": 7558.206558578942,
+   "surface_area_cm2": 1953.1799999999998
+  },
+  "SV3D": {
+   "height_cm": 36.14830327946383,
+   "width_cm": 21.087918617984602,
+   "hull_volume_cm3": 8105.532572193612,
+   "surface_area_cm2": 2136.87
+  },
+  "SEVA": {
+   "height_cm": 36.35917735281941,
+   "width_cm": 22.20961929935054,
+   "hull_volume_cm3": 9261.153219449763,
+   "surface_area_cm2": 2062.08
+  }
+ },
+ "gs_quinoa_20221220": {
+  "base_cm": 4.251606998247775,
+  "reference": {
+   "height_cm": 42.23036750569066,
+   "width_cm": 18.12965671031583,
+   "hull_volume_cm3": 11908.437318460186,
+   "surface_area_cm2": 2615.7599999999998
+  },
+  "Ours": {
+   "height_cm": 41.919243090356304,
+   "width_cm": 21.993198684212818,
+   "hull_volume_cm3": 11699.292565133957,
+   "surface_area_cm2": 2575.44
+  },
+  "TRELLIS": {
+   "height_cm": 42.55104896878902,
+   "width_cm": 21.853383416488523,
+   "hull_volume_cm3": 12786.140440613011,
+   "surface_area_cm2": 3135.42
+  },
+  "TRELLIS.2": {
+   "height_cm": 41.64943280965969,
+   "width_cm": 23.254064446335082,
+   "hull_volume_cm3": 12255.012917705573,
+   "surface_area_cm2": 2557.98
+  },
+  "Hunyuan3D 2.1": {
+   "height_cm": 41.44895015397592,
+   "width_cm": 22.56248809431954,
+   "hull_volume_cm3": 9618.204987850735,
+   "surface_area_cm2": 2442.42
+  },
+  "SEVA": {
+   "height_cm": 42.567352440430774,
+   "width_cm": 21.589517592152617,
+   "hull_volume_cm3": 10082.987568275455,
+   "surface_area_cm2": 1921.59
+  },
+  "SV3D": {
+   "height_cm": 41.636167585323975,
+   "width_cm": 18.691199549977775,
+   "hull_volume_cm3": 9671.703311288029,
+   "surface_area_cm2": 2082.6
+  }
+ },
+ "gs_quinoa_20221223": {
+  "base_cm": 4.269976004919851,
+  "reference": {
+   "height_cm": 47.092332048717715,
+   "width_cm": 17.491726619007636,
+   "hull_volume_cm3": 12311.246699509034,
+   "surface_area_cm2": 3329.64
+  },
+  "Ours": {
+   "height_cm": 46.29012128155127,
+   "width_cm": 22.150870294701377,
+   "hull_volume_cm3": 12748.93175426421,
+   "surface_area_cm2": 2922.66
+  },
+  "TRELLIS": {
+   "height_cm": 43.466694050156704,
+   "width_cm": 19.315592456690464,
+   "hull_volume_cm3": 11093.376985694256,
+   "surface_area_cm2": 3429.54
+  },
+  "TRELLIS.2": {
+   "height_cm": 47.76719939942818,
+   "width_cm": 23.162192687085692,
+   "hull_volume_cm3": 14978.604920683945,
+   "surface_area_cm2": 2751.93
+  },
+  "Hunyuan3D 2.1": {
+   "height_cm": 44.31611623966618,
+   "width_cm": 17.790751898562135,
+   "hull_volume_cm3": 9294.454430503956,
+   "surface_area_cm2": 2729.6099999999997
+  },
+  "SV3D": {
+   "height_cm": 46.44516568809746,
+   "width_cm": 18.982407907250856,
+   "hull_volume_cm3": 12041.822028358354,
+   "surface_area_cm2": 2328.0299999999997
+  },
+  "SEVA": {
+   "height_cm": 47.15081308400931,
+   "width_cm": 20.16970317302457,
+   "hull_volume_cm3": 11472.008006547123,
+   "surface_area_cm2": 2034.09
+  }
+ },
+ "gs_quinoa_20221227": {
+  "base_cm": 4.292217524628873,
+  "reference": {
+   "height_cm": 53.73509758617777,
+   "width_cm": 17.594734823951473,
+   "hull_volume_cm3": 13469.133606602458,
+   "surface_area_cm2": 4029.0299999999997
+  },
+  "Ours": {
+   "height_cm": 53.11433765713381,
+   "width_cm": 22.857407492686157,
+   "hull_volume_cm3": 14033.275876205998,
+   "surface_area_cm2": 3068.0099999999998
+  },
+  "TRELLIS": {
+   "height_cm": 56.698936197902405,
+   "width_cm": 20.8863954512891,
+   "hull_volume_cm3": 16038.206155418991,
+   "surface_area_cm2": 4543.65
+  },
+  "TRELLIS.2": {
+   "height_cm": 54.686680639472016,
+   "width_cm": 21.369658880538722,
+   "hull_volume_cm3": 15549.551825845369,
+   "surface_area_cm2": 3252.33
+  },
+  "Hunyuan3D 2.1": {
+   "height_cm": 45.020400097550755,
+   "width_cm": 27.36224372545825,
+   "hull_volume_cm3": 13360.62457126829,
+   "surface_area_cm2": 4572.2699999999995
+  },
+  "SEVA": {
+   "height_cm": 54.07171193596888,
+   "width_cm": 20.33159821188469,
+   "hull_volume_cm3": 11694.565438005391,
+   "surface_area_cm2": 2434.68
+  },
+  "SV3D": {
+   "height_cm": 52.370925842100974,
+   "width_cm": 21.37816574879132,
+   "hull_volume_cm3": 13414.88225701443,
+   "surface_area_cm2": 2540.43
+  }
+ },
+ "gs_quinoa_20221230": {
+  "base_cm": 4.340998551336643,
+  "reference": {
+   "height_cm": 56.607035911406264,
+   "width_cm": 18.00750129700668,
+   "hull_volume_cm3": 14585.499342813373,
+   "surface_area_cm2": 4909.59
+  },
+  "Ours": {
+   "height_cm": 56.23288707246461,
+   "width_cm": 20.73918126544459,
+   "hull_volume_cm3": 15171.781110645114,
+   "surface_area_cm2": 3260.16
+  },
+  "TRELLIS": {
+   "height_cm": 58.2821101154127,
+   "width_cm": 21.438699742244808,
+   "hull_volume_cm3": 17761.03684204811,
+   "surface_area_cm2": 5564.25
+  },
+  "TRELLIS.2": {
+   "height_cm": 55.468874751216774,
+   "width_cm": 21.89623248200147,
+   "hull_volume_cm3": 17660.99651612142,
+   "surface_area_cm2": 3768.5699999999997
+  },
+  "Hunyuan3D 2.1": {
+   "height_cm": 45.98173108265732,
+   "width_cm": 30.323177673691212,
+   "hull_volume_cm3": 22180.215467026414,
+   "surface_area_cm2": 7639.83
+  },
+  "SV3D": {
+   "height_cm": 54.92828447962548,
+   "width_cm": 24.39093761960177,
+   "hull_volume_cm3": 15714.880741125484,
+   "surface_area_cm2": 2798.19
+  },
+  "SEVA": {
+   "height_cm": 56.82650081053816,
+   "width_cm": 21.034453274880427,
+   "hull_volume_cm3": 11884.04643638085,
+   "surface_area_cm2": 2681.37
+  }
+ },
+ "gs_quinoa_20230102": {
+  "base_cm": 4.362373120612646,
+  "reference": {
+   "height_cm": 58.274979058265174,
+   "width_cm": 18.519575681012036,
+   "hull_volume_cm3": 15860.390042007537,
+   "surface_area_cm2": 5628.15
+  },
+  "Ours": {
+   "height_cm": 58.732564077676464,
+   "width_cm": 22.566993343105487,
+   "hull_volume_cm3": 15691.59866496151,
+   "surface_area_cm2": 4020.39
+  },
+  "TRELLIS": {
+   "height_cm": 62.66598948981837,
+   "width_cm": 20.839981670228525,
+   "hull_volume_cm3": 20222.49058339327,
+   "surface_area_cm2": 5776.2
+  },
+  "TRELLIS.2": {
+   "height_cm": 62.38505345167135,
+   "width_cm": 28.674892976313636,
+   "hull_volume_cm3": 25305.412183210545,
+   "surface_area_cm2": 5084.91
+  },
+  "Hunyuan3D 2.1": {
+   "height_cm": 48.646584789636385,
+   "width_cm": 25.84888999347693,
+   "hull_volume_cm3": 18945.459061025256,
+   "surface_area_cm2": 8304.029999999999
+  },
+  "SEVA": {
+   "height_cm": 58.63023146731748,
+   "width_cm": 21.44655004613583,
+   "hull_volume_cm3": 14956.89745023526,
+   "surface_area_cm2": 3285.0899999999997
+  },
+  "SV3D": {
+   "height_cm": 56.6574307882489,
+   "width_cm": 23.83160738645536,
+   "hull_volume_cm3": 15528.289403876117,
+   "surface_area_cm2": 2912.94
+  }
+ },
+ "gs_quinoa_20230105": {
+  "base_cm": 4.366011708099688,
+  "reference": {
+   "height_cm": 58.6807783718459,
+   "width_cm": 18.7865947622748,
+   "hull_volume_cm3": 16397.541278192697,
+   "surface_area_cm2": 5689.71
+  },
+  "Ours": {
+   "height_cm": 59.270733909110675,
+   "width_cm": 22.270798799188707,
+   "hull_volume_cm3": 17126.627033488803,
+   "surface_area_cm2": 3729.7799999999997
+  },
+  "TRELLIS": {
+   "height_cm": 58.71344166973766,
+   "width_cm": 22.570465425905862,
+   "hull_volume_cm3": 18424.35670564102,
+   "surface_area_cm2": 6140.429999999999
+  },
+  "TRELLIS.2": {
+   "height_cm": 59.736816045318236,
+   "width_cm": 23.228376551421782,
+   "hull_volume_cm3": 20844.82566705241,
+   "surface_area_cm2": 4153.68
+  },
+  "Hunyuan3D 2.1": {
+   "height_cm": 47.38983741799382,
+   "width_cm": 27.86609257760123,
+   "hull_volume_cm3": 21654.888019771635,
+   "surface_area_cm2": 9361.35
+  },
+  "SV3D": {
+   "height_cm": 58.40866880649321,
+   "width_cm": 24.083408063169045,
+   "hull_volume_cm3": 14312.900250511853,
+   "surface_area_cm2": 2916.81
+  },
+  "SEVA": {
+   "height_cm": 59.5099042839018,
+   "width_cm": 21.295858226381064,
+   "hull_volume_cm3": 14558.173514807722,
+   "surface_area_cm2": 3098.79
+  }
+ },
+ "gs_quinoa_20230108": {
+  "base_cm": 4.37265567262137,
+  "reference": {
+   "height_cm": 58.514566579941814,
+   "width_cm": 18.478963080577337,
+   "hull_volume_cm3": 15953.96316161427,
+   "surface_area_cm2": 5868.0
+  },
+  "Ours": {
+   "height_cm": 59.13301127577263,
+   "width_cm": 22.0404540876677,
+   "hull_volume_cm3": 16980.420852833715,
+   "surface_area_cm2": 3799.7999999999997
+  },
+  "TRELLIS": {
+   "height_cm": 59.16488349630818,
+   "width_cm": 21.741760547399927,
+   "hull_volume_cm3": 17280.879453512756,
+   "surface_area_cm2": 5463.36
+  },
+  "TRELLIS.2": {
+   "height_cm": 61.032613592360164,
+   "width_cm": 27.85640648511378,
+   "hull_volume_cm3": 22092.37677795774,
+   "surface_area_cm2": 4391.639999999999
+  },
+  "Hunyuan3D 2.1": {
+   "height_cm": 47.03728990313005,
+   "width_cm": 25.872328178941025,
+   "hull_volume_cm3": 20345.754431740203,
+   "surface_area_cm2": 7469.639999999999
+  },
+  "SEVA": {
+   "height_cm": 59.652117862521,
+   "width_cm": 21.082356569169868,
+   "hull_volume_cm3": 11342.507615927556,
+   "surface_area_cm2": 2609.5499999999997
+  },
+  "SV3D": {
+   "height_cm": 58.534247002964925,
+   "width_cm": 22.31790501279219,
+   "hull_volume_cm3": 14633.698670027274,
+   "surface_area_cm2": 3356.2799999999997
+  }
+ },
+ "gs_quinoa_20230111": {
+  "base_cm": 4.35936688446094,
+  "reference": {
+   "height_cm": 59.093601010176194,
+   "width_cm": 18.524579027502014,
+   "hull_volume_cm3": 15072.004535150727,
+   "surface_area_cm2": 5253.75
+  },
+  "Ours": {
+   "height_cm": 58.173656627942705,
+   "width_cm": 22.68749889338972,
+   "hull_volume_cm3": 16135.622062601826,
+   "surface_area_cm2": 3456.72
+  },
+  "TRELLIS": {
+   "height_cm": 59.17839654939411,
+   "width_cm": 21.76398276104373,
+   "hull_volume_cm3": 16143.755593253363,
+   "surface_area_cm2": 4956.21
+  },
+  "TRELLIS.2": {
+   "height_cm": 56.79982094205455,
+   "width_cm": 22.69765759002732,
+   "hull_volume_cm3": 19451.671501099252,
+   "surface_area_cm2": 3731.67
+  },
+  "Hunyuan3D 2.1": {
+   "height_cm": 46.46214188236454,
+   "width_cm": 29.527865778456768,
+   "hull_volume_cm3": 20983.001698360546,
+   "surface_area_cm2": 7587.9
+  },
+  "SV3D": {
+   "height_cm": 57.90284664636692,
+   "width_cm": 22.2788364576837,
+   "hull_volume_cm3": 14557.975639410197,
+   "surface_area_cm2": 3097.62
+  },
+  "SEVA": {
+   "height_cm": 58.64457251947249,
+   "width_cm": 21.79823951231814,
+   "hull_volume_cm3": 9910.345895089453,
+   "surface_area_cm2": 2516.4
+  }
+ },
+ "gs_sequoia_20240213": {
+  "base_cm": 4.444849885061959,
+  "reference": {
+   "height_cm": 18.08798166557898,
+   "width_cm": 20.549385919958226,
+   "hull_volume_cm3": 5707.019489140764,
+   "surface_area_cm2": 5088.24
+  },
+  "Ours": {
+   "height_cm": 19.074713256289247,
+   "width_cm": 21.449629746417234,
+   "hull_volume_cm3": 5335.071416432255,
+   "surface_area_cm2": 1595.1599999999999
+  },
+  "TRELLIS": {
+   "height_cm": 20.084286096067547,
+   "width_cm": 21.267740778135206,
+   "hull_volume_cm3": 6632.015968055991,
+   "surface_area_cm2": 2290.41
+  },
+  "TRELLIS.2": {
+   "height_cm": 22.807943140836688,
+   "width_cm": 21.4216374688233,
+   "hull_volume_cm3": 5803.331585024687,
+   "surface_area_cm2": 1735.02
+  },
+  "Hunyuan3D 2.1": {
+   "height_cm": 21.809055101537187,
+   "width_cm": 21.217620491083736,
+   "hull_volume_cm3": 5711.287381524718,
+   "surface_area_cm2": 2061.09
+  },
+  "SEVA": {
+   "height_cm": 19.77087062072633,
+   "width_cm": 21.374401288992285,
+   "hull_volume_cm3": 4259.716474365909,
+   "surface_area_cm2": 1731.06
+  },
+  "SV3D": {
+   "height_cm": 18.62224898013605,
+   "width_cm": 20.910851789628786,
+   "hull_volume_cm3": 4821.451035735458,
+   "surface_area_cm2": 2325.15
+  }
+ },
+ "gs_sequoia_20240215": {
+  "base_cm": 4.444849457276099,
+  "reference": {
+   "height_cm": 18.117146907225745,
+   "width_cm": 20.53320437956338,
+   "hull_volume_cm3": 5749.703369473038,
+   "surface_area_cm2": 5122.44
+  },
+  "Ours": {
+   "height_cm": 19.028012438132862,
+   "width_cm": 21.492922011386675,
+   "hull_volume_cm3": 5413.671112293313,
+   "surface_area_cm2": 1519.2
+  },
+  "TRELLIS": {
+   "height_cm": 19.745149781396314,
+   "width_cm": 24.07861784056976,
+   "hull_volume_cm3": 7345.975040205145,
+   "surface_area_cm2": 2341.08
+  },
+  "TRELLIS.2": {
+   "height_cm": 21.2981153163489,
+   "width_cm": 20.957910703538506,
+   "hull_volume_cm3": 6161.39678862966,
+   "surface_area_cm2": 1601.1
+  },
+  "Hunyuan3D 2.1": {
+   "height_cm": 22.579784161203364,
+   "width_cm": 19.656620058305016,
+   "hull_volume_cm3": 4650.284018391426,
+   "surface_area_cm2": 1616.1299999999999
+  },
+  "SV3D": {
+   "height_cm": 18.19950103866985,
+   "width_cm": 21.541266818346266,
+   "hull_volume_cm3": 5387.546269476206,
+   "surface_area_cm2": 1576.26
+  },
+  "SEVA": {
+   "height_cm": 18.702874680613302,
+   "width_cm": 22.16978655414939,
+   "hull_volume_cm3": 5331.883620799353,
+   "surface_area_cm2": 1432.53
+  }
+ },
+ "gs_sequoia_20240218": {
+  "base_cm": 4.44549902507649,
+  "reference": {
+   "height_cm": 18.272027185633235,
+   "width_cm": 20.50160882698244,
+   "hull_volume_cm3": 5778.695110971095,
+   "surface_area_cm2": 5174.19
+  },
+  "Ours": {
+   "height_cm": 20.276903565349798,
+   "width_cm": 21.544542082713264,
+   "hull_volume_cm3": 5747.670895802967,
+   "surface_area_cm2": 1580.04
+  },
+  "TRELLIS": {
+   "height_cm": 21.553273988680743,
+   "width_cm": 24.781932997103965,
+   "hull_volume_cm3": 7993.831487964153,
+   "surface_area_cm2": 2454.75
+  },
+  "TRELLIS.2": {
+   "height_cm": 22.163786429391962,
+   "width_cm": 22.36121049963409,
+   "hull_volume_cm3": 6527.741987336964,
+   "surface_area_cm2": 1813.77
+  },
+  "Hunyuan3D 2.1": {
+   "height_cm": 21.636394584531413,
+   "width_cm": 20.943787710821347,
+   "hull_volume_cm3": 5801.935811631431,
+   "surface_area_cm2": 2256.75
+  },
+  "SV3D": {
+   "height_cm": 18.344994234046528,
+   "width_cm": 21.835199977222914,
+   "hull_volume_cm3": 5783.933174461908,
+   "surface_area_cm2": 1638.72
+  },
+  "SEVA": {
+   "height_cm": 18.502028703389435,
+   "width_cm": 22.200297147504184,
+   "hull_volume_cm3": 4569.649922495888,
+   "surface_area_cm2": 1316.43
+  }
+ },
+ "gs_sequoia_20240222": {
+  "base_cm": 4.4479775800062225,
+  "reference": {
+   "height_cm": 20.269499308454844,
+   "width_cm": 20.68519823791194,
+   "hull_volume_cm3": 6111.641630022304,
+   "surface_area_cm2": 5258.07
+  },
+  "Ours": {
+   "height_cm": 22.58394068615525,
+   "width_cm": 21.576100252334783,
+   "hull_volume_cm3": 6434.086781185212,
+   "surface_area_cm2": 1582.56
+  },
+  "TRELLIS": {
+   "height_cm": 21.869539005702723,
+   "width_cm": 20.98767995648132,
+   "hull_volume_cm3": 6539.784239369631,
+   "surface_area_cm2": 2188.08
+  },
+  "TRELLIS.2": {
+   "height_cm": 25.26857870312229,
+   "width_cm": 21.578261874650565,
+   "hull_volume_cm3": 7571.096371307301,
+   "surface_area_cm2": 1822.6799999999998
+  },
+  "Hunyuan3D 2.1": {
+   "height_cm": 25.042789251482407,
+   "width_cm": 19.763439004238716,
+   "hull_volume_cm3": 4729.350559822392,
+   "surface_area_cm2": 1768.59
+  },
+  "SV3D": {
+   "height_cm": 21.776019961285428,
+   "width_cm": 21.697667939914638,
+   "hull_volume_cm3": 6605.46884091498,
+   "surface_area_cm2": 1853.82
+  },
+  "SEVA": {
+   "height_cm": 22.32831237415743,
+   "width_cm": 24.631706671583814,
+   "hull_volume_cm3": 5629.952144370861,
+   "surface_area_cm2": 1593.27
+  }
+ },
+ "gs_sequoia_20240225": {
+  "base_cm": 4.448756505602337,
+  "reference": {
+   "height_cm": 22.199079490757008,
+   "width_cm": 21.165169742959677,
+   "hull_volume_cm3": 6820.854177984702,
+   "surface_area_cm2": 5281.83
+  },
+  "Ours": {
+   "height_cm": 22.55110467471501,
+   "width_cm": 21.702585904354706,
+   "hull_volume_cm3": 6563.9409832207575,
+   "surface_area_cm2": 1671.12
+  },
+  "TRELLIS": {
+   "height_cm": 22.919223859600216,
+   "width_cm": 22.519705928700372,
+   "hull_volume_cm3": 7948.870506453792,
+   "surface_area_cm2": 2407.95
+  },
+  "TRELLIS.2": {
+   "height_cm": 23.578720667411492,
+   "width_cm": 20.97411185807482,
+   "hull_volume_cm3": 6166.427485367744,
+   "surface_area_cm2": 1729.98
+  },
+  "Hunyuan3D 2.1": {
+   "height_cm": 24.835206325216493,
+   "width_cm": 19.618819260053137,
+   "hull_volume_cm3": 4753.0329941403415,
+   "surface_area_cm2": 1866.51
+  },
+  "SEVA": {
+   "height_cm": 23.178270349243114,
+   "width_cm": 22.219717516142538,
+   "hull_volume_cm3": 6876.581807873017,
+   "surface_area_cm2": 1815.84
+  },
+  "SV3D": {
+   "height_cm": 22.49586644311225,
+   "width_cm": 21.038683893028384,
+   "hull_volume_cm3": 5928.574576152674,
+   "surface_area_cm2": 1862.6399999999999
+  }
+ },
+ "gs_sequoia_20240227": {
+  "base_cm": 4.452274209513849,
+  "reference": {
+   "height_cm": 22.383575636266844,
+   "width_cm": 21.795442442706978,
+   "hull_volume_cm3": 7314.9605639545525,
+   "surface_area_cm2": 5421.15
+  },
+  "Ours": {
+   "height_cm": 22.751081755730972,
+   "width_cm": 22.1748938218215,
+   "hull_volume_cm3": 7192.81906614182,
+   "surface_area_cm2": 1645.29
+  },
+  "TRELLIS": {
+   "height_cm": 24.41169880680683,
+   "width_cm": 22.61853103238584,
+   "hull_volume_cm3": 7780.636489360495,
+   "surface_area_cm2": 2555.8199999999997
+  },
+  "TRELLIS.2": {
+   "height_cm": 24.787234564285168,
+   "width_cm": 21.052372213605782,
+   "hull_volume_cm3": 6854.042967107726,
+   "surface_area_cm2": 1860.21
+  },
+  "Hunyuan3D 2.1": {
+   "height_cm": 25.276403921745416,
+   "width_cm": 19.786992728506302,
+   "hull_volume_cm3": 5240.568271230629,
+   "surface_area_cm2": 2039.6699999999998
+  },
+  "SV3D": {
+   "height_cm": 22.46440807419626,
+   "width_cm": 23.083059335299716,
+   "hull_volume_cm3": 6677.739667636299,
+   "surface_area_cm2": 1843.56
+  },
+  "SEVA": {
+   "height_cm": 23.198783894295527,
+   "width_cm": 23.42441528566591,
+   "hull_volume_cm3": 6774.942080177459,
+   "surface_area_cm2": 1790.37
+  }
+ },
+ "gs_sequoia_20240301": {
+  "base_cm": 4.45774713757272,
+  "reference": {
+   "height_cm": 22.516732885257813,
+   "width_cm": 23.384288821017616,
+   "hull_volume_cm3": 8036.364256572242,
+   "surface_area_cm2": 5691.24
+  },
+  "Ours": {
+   "height_cm": 22.841504137252116,
+   "width_cm": 21.964432209579286,
+   "hull_volume_cm3": 7075.428761497868,
+   "surface_area_cm2": 1735.83
+  },
+  "TRELLIS": {
+   "height_cm": 25.10724534148729,
+   "width_cm": 24.220035531248072,
+   "hull_volume_cm3": 9507.29652175339,
+   "surface_area_cm2": 2749.8599999999997
+  },
+  "TRELLIS.2": {
+   "height_cm": 23.746152589162918,
+   "width_cm": 21.20938824030431,
+   "hull_volume_cm3": 7650.286275943885,
+   "surface_area_cm2": 1902.4199999999998
+  },
+  "Hunyuan3D 2.1": {
+   "height_cm": 25.678651828397335,
+   "width_cm": 20.52258320281376,
+   "hull_volume_cm3": 5970.380123388128,
+   "surface_area_cm2": 2413.71
+  },
+  "SV3D": {
+   "height_cm": 21.987116807344833,
+   "width_cm": 21.81121462941509,
+   "hull_volume_cm3": 6533.288910028801,
+   "surface_area_cm2": 1947.6899999999998
+  },
+  "SEVA": {
+   "height_cm": 22.934598166615014,
+   "width_cm": 23.29440760946745,
+   "hull_volume_cm3": 6503.411422198993,
+   "surface_area_cm2": 1918.62
+  }
+ },
+ "gs_sequoia_20240303": {
+  "base_cm": 4.4616542387473554,
+  "reference": {
+   "height_cm": 22.540878702379487,
+   "width_cm": 24.34883052356135,
+   "hull_volume_cm3": 8598.971728063569,
+   "surface_area_cm2": 5906.79
+  },
+  "Ours": {
+   "height_cm": 23.112121614103486,
+   "width_cm": 21.55268672877252,
+   "hull_volume_cm3": 7368.217622948935,
+   "surface_area_cm2": 1927.98
+  },
+  "TRELLIS": {
+   "height_cm": 25.588101305981212,
+   "width_cm": 23.103245580779053,
+   "hull_volume_cm3": 10082.996707225171,
+   "surface_area_cm2": 3230.64
+  },
+  "TRELLIS.2": {
+   "height_cm": 24.473967505112768,
+   "width_cm": 23.565031800716483,
+   "hull_volume_cm3": 8666.719582232037,
+   "surface_area_cm2": 2095.29
+  },
+  "Hunyuan3D 2.1": {
+   "height_cm": 24.51087147003425,
+   "width_cm": 20.7681977827407,
+   "hull_volume_cm3": 6184.108690605948,
+   "surface_area_cm2": 2635.65
+  },
+  "SV3D": {
+   "height_cm": 22.243517822724886,
+   "width_cm": 22.717536466950428,
+   "hull_volume_cm3": 7330.151520821435,
+   "surface_area_cm2": 2251.44
+  },
+  "SEVA": {
+   "height_cm": 22.882711900980308,
+   "width_cm": 22.722866715989486,
+   "hull_volume_cm3": 6468.997500300208,
+   "surface_area_cm2": 2014.74
+  }
+ },
+ "gs_sequoia_20240306": {
+  "base_cm": 4.471815246475356,
+  "reference": {
+   "height_cm": 22.58983557280965,
+   "width_cm": 24.81199693816635,
+   "hull_volume_cm3": 9454.502609376785,
+   "surface_area_cm2": 6400.259999999999
+  },
+  "Ours": {
+   "height_cm": 24.237529866414818,
+   "width_cm": 23.186223018986457,
+   "hull_volume_cm3": 7357.155170504483,
+   "surface_area_cm2": 2091.15
+  },
+  "TRELLIS": {
+   "height_cm": 26.505165814191535,
+   "width_cm": 25.796777395130366,
+   "hull_volume_cm3": 11150.065309165537,
+   "surface_area_cm2": 3410.37
+  },
+  "TRELLIS.2": {
+   "height_cm": 24.43279006416193,
+   "width_cm": 23.15621599013379,
+   "hull_volume_cm3": 8788.448962370647,
+   "surface_area_cm2": 2770.65
+  },
+  "Hunyuan3D 2.1": {
+   "height_cm": 24.659564523623686,
+   "width_cm": 21.301887414820524,
+   "hull_volume_cm3": 7153.570764434232,
+   "surface_area_cm2": 2981.79
+  },
+  "SEVA": {
+   "height_cm": 22.049061844829463,
+   "width_cm": 24.282249901547797,
+   "hull_volume_cm3": 7081.12401701616,
+   "surface_area_cm2": 2029.77
+  },
+  "SV3D": {
+   "height_cm": 22.1350974714161,
+   "width_cm": 24.82639381823197,
+   "hull_volume_cm3": 8830.61098231525,
+   "surface_area_cm2": 2171.88
+  }
+ },
+ "gs_sequoia_20240308": {
+  "base_cm": 4.480415488730582,
+  "reference": {
+   "height_cm": 22.54213597621233,
+   "width_cm": 25.042438986329085,
+   "hull_volume_cm3": 10026.63528862517,
+   "surface_area_cm2": 6792.84
+  },
+  "Ours": {
+   "height_cm": 23.651980980813395,
+   "width_cm": 22.387055873650183,
+   "hull_volume_cm3": 7587.863615446664,
+   "surface_area_cm2": 2290.3199999999997
+  },
+  "TRELLIS": {
+   "height_cm": 25.64373726567486,
+   "width_cm": 27.89230112410717,
+   "hull_volume_cm3": 11676.470758412079,
+   "surface_area_cm2": 3628.89
+  },
+  "TRELLIS.2": {
+   "height_cm": 26.693949803959296,
+   "width_cm": 24.789657951862967,
+   "hull_volume_cm3": 10405.683149494656,
+   "surface_area_cm2": 3272.04
+  },
+  "Hunyuan3D 2.1": {
+   "height_cm": 25.146457043176312,
+   "width_cm": 24.144263817197743,
+   "hull_volume_cm3": 7384.032556447993,
+   "surface_area_cm2": 3141.27
+  },
+  "SV3D": {
+   "height_cm": 23.226297552303944,
+   "width_cm": 25.337315844204802,
+   "hull_volume_cm3": 9137.834416663158,
+   "surface_area_cm2": 2463.5699999999997
+  },
+  "SEVA": {
+   "height_cm": 22.91498694111359,
+   "width_cm": 24.23143981545178,
+   "hull_volume_cm3": 7500.303910235427,
+   "surface_area_cm2": 2007.8999999999999
+  }
+ },
+ "gs_sequoia_20240310": {
+  "base_cm": 4.4848399361548585,
+  "reference": {
+   "height_cm": 22.112557647831544,
+   "width_cm": 25.24873319377492,
+   "hull_volume_cm3": 10238.063591900318,
+   "surface_area_cm2": 7059.96
+  },
+  "Ours": {
+   "height_cm": 24.29445555423157,
+   "width_cm": 23.816051660821643,
+   "hull_volume_cm3": 7945.49074050875,
+   "surface_area_cm2": 2417.94
+  },
+  "TRELLIS": {
+   "height_cm": 22.72014602690526,
+   "width_cm": 25.874490170830867,
+   "hull_volume_cm3": 10395.032297592328,
+   "surface_area_cm2": 4013.37
+  },
+  "TRELLIS.2": {
+   "height_cm": 26.07731098796864,
+   "width_cm": 23.721170260237503,
+   "hull_volume_cm3": 9078.44988744246,
+   "surface_area_cm2": 3773.3399999999997
+  },
+  "Hunyuan3D 2.1": {
+   "height_cm": 24.643617663654975,
+   "width_cm": 24.149656539061176,
+   "hull_volume_cm3": 8803.633164480061,
+   "surface_area_cm2": 3452.58
+  },
+  "SV3D": {
+   "height_cm": 22.115544915611185,
+   "width_cm": 24.095007874083105,
+   "hull_volume_cm3": 8634.288802992656,
+   "surface_area_cm2": 2511.54
+  },
+  "SEVA": {
+   "height_cm": 21.633979429228624,
+   "width_cm": 25.833785503805743,
+   "hull_volume_cm3": 7873.220466143361,
+   "surface_area_cm2": 2066.58
+  }
+ },
+ "gs_sequoia_20240314": {
+  "base_cm": 4.510898397398408,
+  "reference": {
+   "height_cm": 23.276065077789756,
+   "width_cm": 25.86203088191541,
+   "hull_volume_cm3": 12086.515651196949,
+   "surface_area_cm2": 8251.02
+  },
+  "Ours": {
+   "height_cm": 24.602803918333183,
+   "width_cm": 23.14363461554838,
+   "hull_volume_cm3": 9648.593503611093,
+   "surface_area_cm2": 2762.19
+  },
+  "TRELLIS": {
+   "height_cm": 24.88266023103934,
+   "width_cm": 26.720140326428243,
+   "hull_volume_cm3": 12486.165086075463,
+   "surface_area_cm2": 4299.75
+  },
+  "TRELLIS.2": {
+   "height_cm": 25.226220371720053,
+   "width_cm": 24.125756497226845,
+   "hull_volume_cm3": 11876.710912560104,
+   "surface_area_cm2": 3755.16
+  },
+  "Hunyuan3D 2.1": {
+   "height_cm": 24.6367300362884,
+   "width_cm": 26.755722667587303,
+   "hull_volume_cm3": 11755.90263797553,
+   "surface_area_cm2": 4287.69
+  },
+  "SV3D": {
+   "height_cm": 23.385453648519253,
+   "width_cm": 27.57471632355557,
+   "hull_volume_cm3": 11446.149423346913,
+   "surface_area_cm2": 3001.41
+  },
+  "SEVA": {
+   "height_cm": 23.895259283864142,
+   "width_cm": 30.1407134101115,
+   "hull_volume_cm3": 8484.983130771721,
+   "surface_area_cm2": 2428.74
+  }
+ },
+ "gs_sequoia_20240319": {
+  "base_cm": 4.516654110717446,
+  "reference": {
+   "height_cm": 23.21276225703405,
+   "width_cm": 26.02293948251327,
+   "hull_volume_cm3": 12167.227355116363,
+   "surface_area_cm2": 8622.539999999999
+  },
+  "Ours": {
+   "height_cm": 24.552690994736153,
+   "width_cm": 24.113196117941236,
+   "hull_volume_cm3": 9668.730750679426,
+   "surface_area_cm2": 2866.8599999999997
+  },
+  "TRELLIS": {
+   "height_cm": 26.400646596067794,
+   "width_cm": 27.22331752955456,
+   "hull_volume_cm3": 13280.69781425913,
+   "surface_area_cm2": 4108.5
+  },
+  "TRELLIS.2": {
+   "height_cm": 26.354051510087494,
+   "width_cm": 25.41937324771392,
+   "hull_volume_cm3": 11660.533787118358,
+   "surface_area_cm2": 3879.72
+  },
+  "Hunyuan3D 2.1": {
+   "height_cm": 24.154419423104958,
+   "width_cm": 25.440602171493744,
+   "hull_volume_cm3": 10968.890580913032,
+   "surface_area_cm2": 4425.929999999999
+  },
+  "SEVA": {
+   "height_cm": 24.217086722133747,
+   "width_cm": 27.821388819792098,
+   "hull_volume_cm3": 8985.984066886655,
+   "surface_area_cm2": 2533.5
+  },
+  "SV3D": {
+   "height_cm": 24.086488397190745,
+   "width_cm": 26.442589811607053,
+   "hull_volume_cm3": 10793.984498129923,
+   "surface_area_cm2": 3082.3199999999997
+  }
+ },
+ "gs_sequoia_20240326": {
+  "base_cm": 4.519780871557683,
+  "reference": {
+   "height_cm": 23.380215006836377,
+   "width_cm": 25.99682729237884,
+   "hull_volume_cm3": 12774.682834901876,
+   "surface_area_cm2": 8928.63
+  },
+  "Ours": {
+   "height_cm": 24.919721353794678,
+   "width_cm": 25.449848330966653,
+   "hull_volume_cm3": 10627.136565818615,
+   "surface_area_cm2": 3495.6
+  },
+  "TRELLIS": {
+   "height_cm": 27.40470490267209,
+   "width_cm": 28.899929026583838,
+   "hull_volume_cm3": 16546.357546751944,
+   "surface_area_cm2": 5272.65
+  },
+  "TRELLIS.2": {
+   "height_cm": 25.906704730374027,
+   "width_cm": 25.918879117183437,
+   "hull_volume_cm3": 14214.40018685785,
+   "surface_area_cm2": 4356.18
+  },
+  "Hunyuan3D 2.1": {
+   "height_cm": 23.690164436998,
+   "width_cm": 26.319579107862154,
+   "hull_volume_cm3": 11648.62389568241,
+   "surface_area_cm2": 4864.59
+  },
+  "SV3D": {
+   "height_cm": 24.176135175642408,
+   "width_cm": 26.95783276822065,
+   "hull_volume_cm3": 11103.96098090537,
+   "surface_area_cm2": 3558.6
+  },
+  "SEVA": {
+   "height_cm": 24.371598274219338,
+   "width_cm": 25.65076931607454,
+   "hull_volume_cm3": 9630.337640401498,
+   "surface_area_cm2": 2864.0699999999997
+  }
+ },
+ "gs_sequoia_20240412": {
+  "base_cm": 4.5322886896914625,
+  "reference": {
+   "height_cm": 24.358526140110023,
+   "width_cm": 25.987779601760597,
+   "hull_volume_cm3": 13661.50184874475,
+   "surface_area_cm2": 9535.05
+  },
+  "Ours": {
+   "height_cm": 26.039385667796054,
+   "width_cm": 28.53500653596671,
+   "hull_volume_cm3": 11254.14341781559,
+   "surface_area_cm2": 3359.8799999999997
+  },
+  "TRELLIS": {
+   "height_cm": 26.63319672775331,
+   "width_cm": 29.958615003406628,
+   "hull_volume_cm3": 16921.5418293201,
+   "surface_area_cm2": 4252.68
+  },
+  "TRELLIS.2": {
+   "height_cm": 25.694239765371716,
+   "width_cm": 30.16289520420937,
+   "hull_volume_cm3": 17207.502010920976,
+   "surface_area_cm2": 3974.1299999999997
+  },
+  "Hunyuan3D 2.1": {
+   "height_cm": 26.106393324840273,
+   "width_cm": 32.17213940167643,
+   "hull_volume_cm3": 18189.322065174212,
+   "surface_area_cm2": 5746.86
+  },
+  "SV3D": {
+   "height_cm": 24.63633482381516,
+   "width_cm": 28.279269558729265,
+   "hull_volume_cm3": 13724.422143960715,
+   "surface_area_cm2": 3327.2999999999997
+  },
+  "SEVA": {
+   "height_cm": 25.482745214925547,
+   "width_cm": 28.084864794173654,
+   "hull_volume_cm3": 11852.244772423475,
+   "surface_area_cm2": 2894.4
+  }
+ },
+ "gs_sequoia_20240507": {
+  "base_cm": 4.5303638718037185,
+  "reference": {
+   "height_cm": 25.449391469387095,
+   "width_cm": 26.453378584457056,
+   "hull_volume_cm3": 14290.15326809653,
+   "surface_area_cm2": 9455.31
+  },
+  "Ours": {
+   "height_cm": 27.06883952859745,
+   "width_cm": 24.440773167395772,
+   "hull_volume_cm3": 11841.905044827468,
+   "surface_area_cm2": 4050.27
+  },
+  "TRELLIS": {
+   "height_cm": 26.945983601715017,
+   "width_cm": 25.52823553443948,
+   "hull_volume_cm3": 11778.844050288393,
+   "surface_area_cm2": 4837.5
+  },
+  "TRELLIS.2": {
+   "height_cm": 27.992149066072013,
+   "width_cm": 24.22011238236927,
+   "hull_volume_cm3": 13868.092618525045,
+   "surface_area_cm2": 4141.71
+  },
+  "Hunyuan3D 2.1": {
+   "height_cm": 27.202144464550095,
+   "width_cm": 26.207653660428118,
+   "hull_volume_cm3": 13634.457626913852,
+   "surface_area_cm2": 5586.57
+  },
+  "SV3D": {
+   "height_cm": 23.811409556010894,
+   "width_cm": 24.016644998529554,
+   "hull_volume_cm3": 9987.90019554862,
+   "surface_area_cm2": 3742.74
+  },
+  "SEVA": {
+   "height_cm": 26.88448013886881,
+   "width_cm": 24.48405677148803,
+   "hull_volume_cm3": 11473.903987040301,
+   "surface_area_cm2": 3590.37
+  }
+ },
+ "gs_sequoia_20240524": {
+  "base_cm": 4.535025415787006,
+  "reference": {
+   "height_cm": 26.92584506729061,
+   "width_cm": 26.64378300816073,
+   "hull_volume_cm3": 15445.612703242808,
+   "surface_area_cm2": 9575.82
+  },
+  "Ours": {
+   "height_cm": 28.591168072911557,
+   "width_cm": 25.332202590544448,
+   "hull_volume_cm3": 13218.701131722128,
+   "surface_area_cm2": 4067.8199999999997
+  },
+  "TRELLIS": {
+   "height_cm": 32.2839204873784,
+   "width_cm": 28.291187808868315,
+   "hull_volume_cm3": 15851.157188982192,
+   "surface_area_cm2": 5560.0199999999995
+  },
+  "TRELLIS.2": {
+   "height_cm": 28.475755368918456,
+   "width_cm": 27.1356060539267,
+   "hull_volume_cm3": 15745.686122635925,
+   "surface_area_cm2": 4350.24
+  },
+  "Hunyuan3D 2.1": {
+   "height_cm": 30.06251283599486,
+   "width_cm": 25.566244459396092,
+   "hull_volume_cm3": 12369.701626518785,
+   "surface_area_cm2": 4322.7
+  },
+  "SEVA": {
+   "height_cm": 28.418124630955514,
+   "width_cm": 25.611128650037664,
+   "hull_volume_cm3": 11393.167205864613,
+   "surface_area_cm2": 3213.27
+  },
+  "SV3D": {
+   "height_cm": 25.340668012469433,
+   "width_cm": 25.749921955805192,
+   "hull_volume_cm3": 12229.263947069509,
+   "surface_area_cm2": 4089.87
+  }
+ }
+}

@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper."
+title: "Plant Orbiter: code and data"
+license: MIT
+authors:
+  - family-names: Hartley
+    given-names: Zane K. J.
+    affiliation: University of Nottingham
+  - family-names: Kok
+    given-names: Yong En
+    affiliation: University of Nottingham
+  - family-names: Stuart
+    given-names: Lewis A. G.
+    affiliation: University of Nottingham
+  - family-names: French
+    given-names: Andrew P.
+    affiliation: University of Nottingham
+  - family-names: Pound
+    given-names: Michael P.
+    affiliation: University of Nottingham
+preferred-citation:
+  type: article
+  title: "Plant Orbiter: 3D Plant Reconstruction and Generation with Video Diffusion Orbit Cameras and 3D Gaussian Splatting"
+  authors:
+    - family-names: Hartley
+      given-names: Zane K. J.
+    - family-names: Kok
+      given-names: Yong En
+    - family-names: Stuart
+      given-names: Lewis A. G.
+    - family-names: French
+      given-names: Andrew P.
+    - family-names: Pound
+      given-names: Michael P.
+  year: 2026
+  identifiers:
+    - type: other
+      value: "arXiv:2611.12739"
+      description: arXiv preprint
+  url: "https://arxiv.org/abs/2611.12739"
+  notes: "Submitted to Plant Phenomics."
