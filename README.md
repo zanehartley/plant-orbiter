@@ -1,5 +1,7 @@
 # Plant Orbiter
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24422932.svg)](https://doi.org/10.5281/zenodo.24422932)
+
 Code and results for *Plant Orbiter: 3D Plant Reconstruction and Generation with Video Diffusion Orbit Cameras and 3D
 Gaussian Splatting* (Hartley\*, Kok\*, Stuart, French, Pound; \* equal contribution).
 
@@ -353,6 +355,8 @@ and COV are read directly from `realism.csv` and `shape.csv` (species `all`; Tab
 Hartley, Z. K. J.\*, Kok, Y. E.\*, Stuart, L. A. G., French, A. P., Pound, M. P. *Plant Orbiter: 3D Plant
 Reconstruction and Generation with Video Diffusion Orbit Cameras and 3D Gaussian Splatting.* (\* equal contribution)
 Submitted to *Plant Phenomics*. arXiv: [2611.12739](https://arxiv.org/abs/2611.12739).
+
+Code and data: Zenodo, [doi:10.5281/zenodo.24422932](https://doi.org/10.5281/zenodo.24422932) (all versions).
 
 ```bibtex
 @article{hartley2026plantorbiter,
